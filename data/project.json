@@ -1,21 +1,39 @@
 {
-  "users": [],
   "publish": {
-    "publishPagesApp": false,
-    "publishSHA": "",
-    "publishISODate": ""
+    "publish_pages_app": true,
+    "publish_sha": "",
+    "publish_iso_date": ""
   },
+  "users": [
+    {
+      "login_name": "llilasbenson",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26462551?v=4",
+      "admin": false
+    }
+  ],
   "project": {
-    "title": "Zora Neale Hurston’s Works Progress Administration Recordings",
-    "description": "",
-    "language": "",
-    "slug": "",
-    "authors": "",
-    "mediaPlayer": "universal",
-    "autoPopulateHomePage": "true",
-    "additionalUsers": [],
-    "": {},
-    "createdAt": "",
-    "updatedAt": ""
+    "github_org": "celeste-camacho",
+    "is_private": false,
+    "title": "Mujeres abriendo caminos ",
+    "description": "Mujeres abriendo caminos ",
+    "language": "es",
+    "slug": "mujeres-abriendo-caminos",
+    "creator": "celeste-camacho",
+    "authors": "Celeste Camacho",
+    "media_player": "avannotate",
+    "auto_populate_home_page": true,
+    "additional_users": [
+      {
+        "login_name": "llilasbenson",
+        "avatar_url": "https://avatars.githubusercontent.com/u/26462551?v=4",
+        "admin": false
+      }
+    ],
+    "tags": {
+      "tagGroups": [],
+      "tags": []
+    },
+    "created_at": "2026-04-23T14:16:34.148Z",
+    "updated_at": "2026-04-23T14:16:34.148Z"
   }
 }
