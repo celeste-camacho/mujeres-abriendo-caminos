@@ -6,9 +6,15 @@
   },
   "users": [
     {
+      "login_name": "celeste-camacho",
+      "avatar_url": "https://avatars.githubusercontent.com/u/156730112?v=4",
+      "admin": true
+    },
+    {
       "login_name": "llilasbenson",
       "avatar_url": "https://avatars.githubusercontent.com/u/26462551?v=4",
-      "admin": false
+      "admin": false,
+      "not_accepted": true
     }
   ],
   "project": {
@@ -34,6 +40,27 @@
       "tags": []
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-04-23T14:16:34.148Z"
-  }
+    "updated_at": "2026-04-23T14:16:34.148Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "eventOrder": [],
+  "pages": {
+    "0ea50fb9-de11-4143-a389-e72fc49e7759": {
+      "content": [],
+      "created_at": "2026-04-23T14:16:34.169Z",
+      "created_by": "celeste-camacho",
+      "title": "Mujeres abriendo caminos ",
+      "updated_at": "2026-04-23T14:16:34.169Z",
+      "updated_by": "celeste-camacho",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "0ea50fb9-de11-4143-a389-e72fc49e7759"
+  ]
 }
