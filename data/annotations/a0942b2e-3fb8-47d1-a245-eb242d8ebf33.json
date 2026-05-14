@@ -2611,12 +2611,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "undefined"
+              "text": "Música característica"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Musica"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        }
+      ],
       "uuid": "2176c814-3cb1-434c-828a-43fd900defa3"
     },
     {
