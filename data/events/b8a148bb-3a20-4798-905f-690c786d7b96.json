@@ -1,0 +1,84 @@
+{
+  "audiovisual_files": {
+    "dadb4726-9001-48d9-98db-93429d3af837": {
+      "label": "AV File 1",
+      "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/hrdi/hrdi_dbef83fa-0466-4ac4-b383-2e31e7e252c2/PROXY_MP4/hrdi_dbef83fa-0466-4ac4-b383-2e31e7e252c2.mp4/playlist.m3u8",
+      "duration": 1797621,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Programa radial"
+        },
+        {
+          "text": " Centroamérica sin censura: Mujeres Abriendo Caminos",
+          "bold": true
+        },
+        {
+          "text": " de radio "
+        },
+        {
+          "text": "KPFK  90.7 FM Los Angeles y 98.7 FM Santa Barbara",
+          "bold": true
+        },
+        {
+          "text": ", segmento donde se comparte la experiencia "
+        },
+        {
+          "text": "Voces de Mujeres",
+          "bold": true
+        },
+        {
+          "text": " que explora la articulación política y cultural de las mujeres centroamericanas como actores de transformación social. A través del diálogo sobre migración, memoria y organización, se visibilizan las estrategias de resistencia frente a las violencias estructurales del neoliberalismo, el patriarcado y el desplazamiento forzado. La cultura y el arte emergen como herramientas pedagógicas de concientización y re-existencia, mientras las experiencias de las mujeres migrantes —las que se quedan, las que transitan, las que llegan— configuran un archivo vivo de luchas, agencia y saberes situados que interpela el presente de la región."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "Centroamérica sin censura: Mujeres Abriendo Caminos ",
+          "bold": true
+        },
+        {
+          "text": "radio program on "
+        },
+        {
+          "text": "KPFK 90.7 FM Los Angeles and 98.7 FM Santa Barbara",
+          "bold": true
+        },
+        {
+          "text": ", segment where the "
+        },
+        {
+          "text": "Voces de Mujeres",
+          "bold": true
+        },
+        {
+          "text": " experience is shared. "
+        },
+        {
+          "text": "Voces de Mujeres",
+          "bold": true
+        },
+        {
+          "text": " explores the political and cultural articulation of Central American women as subjects of social transformation. Through dialogue on migration, memory, and organization, it makes visible the strategies of resistance against the structural violences of neoliberalism, patriarchy, and forced displacement. Culture and art emerge as pedagogical tools of conscientization and re-existence, while the experiences of migrant women — those who stay, those who transit, those who arrive — configure a living archive of struggles, agency, and situated knowledge that interpellates the present of the region.\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-05-14T07:55:22.244Z",
+  "created_by": "celeste-camacho",
+  "label": "C",
+  "updated_at": "2026-05-14T07:55:22.244Z",
+  "updated_by": "celeste-camacho",
+  "rights_statement": "h"
+}
