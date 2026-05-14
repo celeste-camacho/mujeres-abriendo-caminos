@@ -41,12 +41,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "musica"
+              "text": "Música"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Musica"
+        }
+      ],
       "uuid": "442abdc4-490d-45e3-85f3-32abf8d53571"
     },
     {
