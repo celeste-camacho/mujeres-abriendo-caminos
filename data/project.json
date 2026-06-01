@@ -20,8 +20,8 @@
   "project": {
     "github_org": "celeste-camacho",
     "is_private": false,
-    "title": "Mujeres abriendo caminos ",
-    "description": "Mujeres abriendo caminos ",
+    "title": "Voces de Mujeres_Colección LLILAS BENSON",
+    "description": "Esta colección audiovisual reúne registros sonoros y visuales del proyecto Voces de Mujeres, producidos entre 2006 y 2010. Los materiales exploran temáticas de género, memoria y participación política en Centroamérica: desde el análisis del décimo aniversario de los acuerdos de paz en Guatemala hasta debates sobre el rol histórico de las mujeres y las condiciones de trabajo de mujeres migrantes e indígenas. La colección está resguardada en el Human Rights Documentation Initiative (HRDI) de LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, y es parte del acervo trabajado en el marco del Digital Scholarship Research Fellowship (LLILAS Benson, 2024–2025).\n_____________________________________________________________________________________________________\nThis audiovisual collection brings together sound and visual recordings from the Voces de Mujeres project, produced between 2006 and 2010. The materials explore themes of gender, memory, and political participation in Central America: from an analysis of the tenth anniversary of the Guatemalan peace accords to debates on the historical role of women and the working conditions of migrant and indigenous women. The collection is held at the Human Rights Documentation Initiative (HRDI) of LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, and is part of the archival work developed within the Digital Scholarship Research Fellowship (LLILAS Benson, 2024–2025).\n",
     "language": "es",
     "slug": "mujeres-abriendo-caminos",
     "creator": "celeste-camacho",
@@ -456,7 +456,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-05-18T19:37:53.703Z",
+    "updated_at": "2026-06-01T04:19:01.696Z",
     "generate_pages_site": true
   },
   "annotations": {},
