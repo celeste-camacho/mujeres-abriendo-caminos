@@ -1,0 +1,65 @@
+{
+  "audiovisual_files": {
+    "48dc84e4-8784-4a90-baf7-0acbaff569c0": {
+      "label": "AV File 1",
+      "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/hrdi/hrdi_75861a4d-4c7a-4cae-bf00-26a19bb17cfc/PROXY_MP4/hrdi_75861a4d-4c7a-4cae-bf00-26a19bb17cfc.mp4/playlist.m3u8",
+      "duration": 2785027,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "Análisis del 10 aniversario de la firma de los acuerdos de paz",
+          "bold": true
+        },
+        {
+          "text": "\n\nEsta grabación conmemora el décimo aniversario de los acuerdos de paz en Guatemala, poniendo en el centro las voces y memorias de mujeres que vivieron el conflicto armado interno. El registro incluye testimonios sobre los hechos ocurridos durante esa etapa, reflexiones sobre las negociaciones de paz, canciones, un recuento de logros alcanzados en la primera década de posconflicto, y una sección dedicada a proyecciones y metas colectivas hacia el futuro. Las anotaciones que componen este evento fueron elaboradas en el marco del proyecto "
+        },
+        {
+          "text": "Voces de Mujeres",
+          "italic": true
+        },
+        {
+          "text": " como parte de la beca Digital Scholarship Research Fellowship en LLILAS Benson (Universidad de Texas en Austin)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This recording commemorates the tenth anniversary of the peace accords in Guatemala, centering the voices and memories of women who lived through the internal armed conflict. It includes testimonies about events during that period, reflections on the peace negotiations, songs, an account of achievements reached in the first postconflict decade, and a section devoted to collective goals for the future. The annotations that make up this event were produced as part of the",
+          "italic": true
+        },
+        {
+          "text": " Voces de Mujeres "
+        },
+        {
+          "text": "project within the Digital Scholarship Research Fellowship at LLILAS Benson (University of Texas at Austin).",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-06-10T00:59:10.705Z",
+  "created_by": "celeste-camacho",
+  "label": "A",
+  "updated_at": "2026-06-10T00:59:10.705Z",
+  "updated_by": "celeste-camacho",
+  "rights_statement": "h"
+}
