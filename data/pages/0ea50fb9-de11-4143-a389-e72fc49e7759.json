@@ -4,6 +4,63 @@
       "type": "paragraph",
       "children": [
         {
+          "text": "Colección Voces de Mujeres",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "LLILAS BENSON"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Esta colección audiovisual reúne registros sonoros y visuales del proyecto "
+        },
+        {
+          "text": "Voces de Mujeres",
+          "bold": true
+        },
+        {
+          "text": ", producidos entre 2006 y 2010. Los materiales exploran temáticas de género, memoria y participación política en Centroamérica: desde el análisis del décimo aniversario de los acuerdos de paz en Guatemala hasta debates sobre el rol histórico de las mujeres y las condiciones de trabajo de mujeres migrantes e indígenas. La colección está resguardada en el Human Rights Documentation Initiative (HRDI) de LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, y es parte del acervo trabajado en el marco del Digital Scholarship Research Fellowship (LLILAS Benson, 2024–2025)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "_____________________________________________________________________________________________________"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This audiovisual collection brings together sound and visual recordings from the Voces de Mujeres project, produced between 2006 and 2010. The materials explore themes of gender, memory, and political participation in Central America: from an analysis of the tenth anniversary of the Guatemalan peace accords to debates on the historical role of women and the working conditions of migrant and indigenous women. The collection is held at the Human Rights Documentation Initiative (HRDI) of LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, and is part of the archival work developed within the Digital Scholarship Research Fellowship (LLILAS Benson, 2024–2025)."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
           "text": ""
         }
       ]
@@ -11,11 +68,12 @@
   ],
   "created_at": "2026-04-23T14:16:34.169Z",
   "created_by": "celeste-camacho",
-  "title": "Mujeres abriendo caminos ",
-  "updated_at": "2026-06-16T02:58:49.975Z",
+  "title": "Voces de Mujeres Collection ",
+  "updated_at": "2026-06-16T03:15:59.071Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
     "type": "home"
-  }
+  },
+  "slug": "voces-de-mujeres-collection"
 }
