@@ -2703,8 +2703,24 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Memoria colectiva, Esperanza, OrganizaciÃ³n, PolÃ­tica, Resistencia, Voces de Mujeres"
+          "tag": "Voces de Mujeres",
+          "category": "Actores y referentes"
+        },
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Resistencia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Esperanza",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organizacion"
         }
       ],
       "uuid": "0d4b9d6c-e3a5-42a8-8f38-e9a5aaeb5b13"
