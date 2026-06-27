@@ -854,10 +854,6 @@
           "tag": "Derechos, ParticipaciÃ³n, OrganizaciÃ³n, Mujeres indÃ­genas, PolÃ­tica, Resistencia, SEPREM, DEMI, Foro de la Mujer"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "OrganizaciÃ³n, Lucha, Derechos, Esperanza, PolÃ­tica, Resistencia"
-        },
-        {
           "category": "Politica y Resistencia",
           "tag": "Política"
         },
@@ -868,7 +864,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-27T21:32:41.542Z",
+    "updated_at": "2026-06-27T21:32:48.362Z",
     "generate_pages_site": true
   },
   "annotations": {},
