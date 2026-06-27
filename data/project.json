@@ -435,10 +435,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Violencias, Cuerpo, Denuncia, PolÃ­tica, Resistencia"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Derechos, Mujeres indÃ­genas"
         },
         {
@@ -840,7 +836,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-27T21:33:44.404Z",
+    "updated_at": "2026-06-27T21:33:54.144Z",
     "generate_pages_site": true
   },
   "annotations": {},
