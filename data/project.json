@@ -435,10 +435,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Territorio, Memoria colectiva, OrganizaciÃ³n, PolÃ­tica, Resistencia, Haraway"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Tierra, Denuncia, Cuerpo, Territorio, PolÃ­tica, Resistencia, Soto CalderÃ³n, Voegelin, Barney"
         },
         {
@@ -852,7 +848,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-27T21:33:22.607Z",
+    "updated_at": "2026-06-27T21:33:31.161Z",
     "generate_pages_site": true
   },
   "annotations": {},
