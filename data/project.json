@@ -435,10 +435,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "OrganizaciÃ³n, Lucha, Derechos, PolÃ­tica, Resistencia, AÃ±o Internacional de la Mujer"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "ComunicaciÃ³n comunitaria, Voz colectiva, EntonaciÃ³n, Interferencias, ParticipaciÃ³n, Derechos,  Luz MÃ©ndez de la Vega, Julia Vela, Eunice Lima"
         },
         {
@@ -788,7 +784,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-27T21:36:36.882Z",
+    "updated_at": "2026-06-27T21:36:50.122Z",
     "generate_pages_site": true
   },
   "annotations": {},
