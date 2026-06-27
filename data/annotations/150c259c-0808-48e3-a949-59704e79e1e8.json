@@ -2556,12 +2556,65 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Se ha conformado la comisiÃ³n para prevenir el feminicidio. Espero tambiÃ©n que esa comisiÃ³n funcione, porque creo que ya habÃ­a una instituciÃ³n como la CONAPREVI que podrÃ­a trabajar muy fuertemente el tema. Por supuesto, las mujeres desde el interior, desde las organizaciones tienen como un punto principal de su agenda este tema."
+              "text": "Se ha conformado la comisión para prevenir el feminicidio. Espero también que esa comisión funcione, porque creo que ya había una institución como la CONAPREVI que podrí­a trabajar muy fuertemente el tema. Por supuesto, las mujeres desde el interior, desde las organizaciones tienen como un punto principal de su agenda este tema."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Mujeres rurales",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Centroamérica"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Denuncia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Feminicidio",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        }
+      ],
       "uuid": "2bd18c4e-3990-4a77-aa8a-a45d14c996d8"
     },
     {
