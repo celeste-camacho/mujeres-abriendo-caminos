@@ -435,10 +435,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Violencias, Denuncia, PolÃ­tica, Resistencia"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Memoria colectiva, Violencias, Denuncia, ReparaciÃ³n, PolÃ­tica, Resistencia, Rogelia Cruz, Nora Paiz"
         },
         {
@@ -816,7 +812,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-27T21:34:37.780Z",
+    "updated_at": "2026-06-27T21:34:44.882Z",
     "generate_pages_site": true
   },
   "annotations": {},
