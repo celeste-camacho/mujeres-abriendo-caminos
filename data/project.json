@@ -435,10 +435,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Violencias, Clase, Cuerpo, Territorio"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "OrganizaciÃ³n, ParticipaciÃ³n, Lucha, Memoria colectiva, PolÃ­tica, Resistencia"
         },
         {
@@ -832,7 +828,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-27T21:34:02.644Z",
+    "updated_at": "2026-06-27T21:34:11.418Z",
     "generate_pages_site": true
   },
   "annotations": {},
