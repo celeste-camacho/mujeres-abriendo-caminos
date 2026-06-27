@@ -858,10 +858,6 @@
           "tag": "OrganizaciÃ³n, Lucha, Derechos, Esperanza, PolÃ­tica, Resistencia"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "OrganizaciÃ³n, ParticipaciÃ³n, Derechos, Aprendizaje colectivo, PolÃ­tica, Resistencia"
-        },
-        {
           "category": "Politica y Resistencia",
           "tag": "Política"
         },
@@ -872,7 +868,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-27T21:32:35.381Z",
+    "updated_at": "2026-06-27T21:32:41.542Z",
     "generate_pages_site": true
   },
   "annotations": {},
