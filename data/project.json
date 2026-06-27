@@ -86,10 +86,6 @@
           "category": "Ecosocial"
         },
         {
-          "tag": "Mineria",
-          "category": "Ecosocial"
-        },
-        {
           "tag": "Territorio",
           "category": "Cuerpo y Territorio"
         },
@@ -912,7 +908,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-27T21:28:56.363Z",
+    "updated_at": "2026-06-27T21:29:25.343Z",
     "generate_pages_site": true
   },
   "annotations": {},
