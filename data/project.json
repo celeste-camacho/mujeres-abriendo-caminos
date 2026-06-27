@@ -886,10 +886,6 @@
           "tag": "Violencias, Feminicidio, Derechos, Denuncia, PolÃ­tica, Resistencia"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "OrganizaciÃ³n, Derechos, Feminicidio, Lucha, PolÃ­tica, Resistencia"
-        },
-        {
           "category": "Politica y Resistencia",
           "tag": "Política"
         },
@@ -900,7 +896,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-27T21:31:07.999Z",
+    "updated_at": "2026-06-27T21:31:19.661Z",
     "generate_pages_site": true
   },
   "annotations": {},
