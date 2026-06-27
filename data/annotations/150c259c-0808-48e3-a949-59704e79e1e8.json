@@ -2540,12 +2540,57 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Creo que el tema de femicidio o feminicidio como se viene planteando, es un tema fuerte para las mujeres, porque sÃ­ estÃ¡ en el momento, mucha agresiÃ³n para la mujer. Yo creo que es un reto muy grande."
+              "text": "Creo que el tema de femicidio o feminicidio como se viene planteando, es un tema fuerte para las mujeres, porque sÃ­ estÃ¡ en el momento, mucha agresión para la mujer. Yo creo que es un reto muy grande."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Mujeres rurales",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Segato",
+          "category": "Actores y referentes"
+        },
+        {
+          "tag": "Resistencia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Denuncia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Feminicidio",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "7b038e32-530e-4a00-ab91-01a4d36ae555"
     },
     {
