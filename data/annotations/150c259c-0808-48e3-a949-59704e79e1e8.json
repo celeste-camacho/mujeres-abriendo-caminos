@@ -70,12 +70,53 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "La falta de espacios para la expresiÃ³n y movilizaciÃ³n ciudadana que habÃ­an sido promovidas en la dÃ©cada 44-54, hicieron que muchos jÃ³venes y jÃ³venas, siguiendo el ejemplo de las y los revolucionarios de los aÃ±os de primavera democrÃ¡tica, se involucraran en las luchas para denunciar las desigualdades y la injusticia prevalecientes en la sociedad guatemalteca"
+              "text": "La falta de espacios para la expresión y movilización ciudadana que habían sido promovidas en la década 44-54, hicieron que muchos jóvenes y jóvenas, siguiendo el ejemplo de las y los revolucionarios de los años de primavera democrática, se involucraran en las luchas para denunciar las desigualdades y la injusticia prevalecientes en la sociedad guatemalteca"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Diversidad cultural",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Resistencia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organizacion"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participacion"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        }
+      ],
       "uuid": "d009e4f4-7c95-457d-8707-3c8f35c18a4f"
     },
     {
