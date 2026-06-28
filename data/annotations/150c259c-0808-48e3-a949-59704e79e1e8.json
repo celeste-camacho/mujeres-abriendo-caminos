@@ -1966,7 +1966,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Actores y referentes",
+          "tag": "Flores Unidas"
+        }
+      ],
       "uuid": "caa2fcdd-f8de-473e-9bf8-55b52f82ea12"
     },
     {
