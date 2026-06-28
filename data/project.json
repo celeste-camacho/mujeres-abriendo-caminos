@@ -270,10 +270,6 @@
           "tag": "Los Angeles"
         },
         {
-          "category": "Estetico-Sonoro",
-          "tag": "Poesi­a"
-        },
-        {
           "category": "Ecosocial",
           "tag": "Ecologi­a"
         },
@@ -756,7 +752,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-28T16:26:39.224Z",
+    "updated_at": "2026-06-28T16:26:44.559Z",
     "generate_pages_site": true
   },
   "annotations": {},
