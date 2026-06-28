@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "MÃºsica, PoesÃ­a"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "MÃºsica, Resitencia, PoesÃ­a, Voz Colectiva, Cuerpo, Territorio"
         },
         {
@@ -820,7 +816,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-28T23:08:03.201Z",
+    "updated_at": "2026-06-28T23:10:01.360Z",
     "generate_pages_site": true
   },
   "annotations": {},
