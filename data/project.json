@@ -375,10 +375,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "ComunicaciÃ³n comunitaria, Mujeres indÃ­genas, EducaciÃ³n, Saber situado, Domitila PÃ©rez, Rolnik"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "ComunicaciÃ³n comunitaria, Voces de Mujeres, Red de Mujeres al Aire, PolÃ­tica, Resistencia"
         },
         {
@@ -852,7 +848,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-28T22:44:19.617Z",
+    "updated_at": "2026-06-28T22:45:19.950Z",
     "generate_pages_site": true
   },
   "annotations": {},
