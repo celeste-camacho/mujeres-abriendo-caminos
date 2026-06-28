@@ -2976,12 +2976,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Yo oí­ por el radio el chiste de don Pedro, en la capital la señora Mirlamat va a sacar un libro para que la gente y sobre todo el Gobierno, entienda que somos población civil y que merecemos vivir en paz. ¿Te acordás que ella vino hasta aquí­ a darse cuenta de nuestra situación?"
+              "text": "Yo oí­ por el radio el chiste de Don Pedro, en la capital la señora Mirlamat va a sacar un libro para que la gente y sobre todo el Gobierno, entienda que somos población civil y que merecemos vivir en paz. ¿Te acordás que ella vino hasta aquí­ a darse cuenta de nuestra situación?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Trabajo",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "849c28fb-1dfc-4e22-b9be-97008333ecd6"
     },
     {
