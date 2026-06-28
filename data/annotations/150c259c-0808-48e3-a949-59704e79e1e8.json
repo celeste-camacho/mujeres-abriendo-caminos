@@ -2480,7 +2480,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Grito"
+        }
+      ],
       "uuid": "b3bed319-d320-491e-aaf6-bf22d19b023a"
     },
     {
