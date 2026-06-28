@@ -1710,15 +1710,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Queremos arreglar los tÃ­tulos de nuestras tierras comunales."
+              "text": "Queremos arreglar los títulos de nuestras tierras comunales."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Tierra, Territorio, Derechos, Cuerpo, Comunidad, Segato"
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Tierra",
+          "category": "Ecosocial"
+        },
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
         }
       ],
       "uuid": "f43030c5-dacf-4d65-8747-ae19d55daad9"
