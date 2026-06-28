@@ -2899,7 +2899,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "tag": "Llanto",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "tag": "Ruido",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "tag": "Denuncia",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "24f3c58d-5044-4f2b-a535-daf04a6cb67c"
     },
     {
