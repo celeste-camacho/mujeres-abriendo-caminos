@@ -3001,6 +3001,10 @@
         {
           "tag": "Trabajo",
           "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Comunicación comunitaria"
         }
       ],
       "uuid": "849c28fb-1dfc-4e22-b9be-97008333ecd6"
