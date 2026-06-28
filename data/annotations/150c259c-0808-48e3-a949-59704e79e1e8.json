@@ -3149,7 +3149,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Poesía"
+        }
+      ],
       "uuid": "c0e0b028-04f3-4b22-830d-f278a5b593c7"
     },
     {
