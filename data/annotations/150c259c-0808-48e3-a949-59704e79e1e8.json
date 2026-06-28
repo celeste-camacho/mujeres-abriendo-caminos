@@ -1544,8 +1544,24 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Tierra, Territorio, Desigualdad, Cuerpo"
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Tierra",
+          "category": "Ecosocial"
+        },
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Desigualdad",
+          "category": "Politica y Resistencia"
         }
       ],
       "uuid": "720a3615-27a4-42dd-a03f-86323cee9cb4"
