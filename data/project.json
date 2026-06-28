@@ -375,10 +375,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "MÃºsica, Voz colectiva, PoesÃ­a, ParticipaciÃ³n"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "MÃºsica, PoesÃ­a"
         },
         {
@@ -840,7 +836,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-28T22:45:44.637Z",
+    "updated_at": "2026-06-28T22:45:58.416Z",
     "generate_pages_site": true
   },
   "annotations": {},
