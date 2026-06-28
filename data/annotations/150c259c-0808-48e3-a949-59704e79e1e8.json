@@ -1381,15 +1381,35 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Casi 40 aÃ±os de conflicto armado interno dejaron una cauda impresionante. Miles de desaparecidos y desaparecidas, miles de ejecuciones extrajudiciales. La represiÃ³n que iniciÃ³ con fuerza en el oriente del paÃ­s en los aÃ±os 50, 60, tuvo como escenario el centro del paÃ­s en los 70, y como doloroso final, la represiÃ³n indiscriminada en el altiplano occidental en los aÃ±os 80."
+              "text": "Casi 40 años de conflicto armado interno dejaron una cauda impresionante. Miles de desaparecidos y desaparecidas, miles de ejecuciones extrajudiciales. La represión que inició con fuerza en el oriente del país en los años 50, 60, tuvo como escenario el centro del paí­s en los 70, y como doloroso final, la represión indiscriminada en el altiplano occidental en los años 80."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Memoria colectiva, Violencias, Denuncia, PolÃ­tica, Resistencia, Voz Colectiva"
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "tag": "Denuncia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        },
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
         }
       ],
       "uuid": "1d07da7b-703c-49a1-ab47-e57edb1e2c16"
