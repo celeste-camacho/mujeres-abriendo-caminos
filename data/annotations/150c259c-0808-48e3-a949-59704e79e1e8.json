@@ -2649,7 +2649,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        }
+      ],
       "uuid": "b8f06e1e-c721-4809-b144-cf7c3f375314"
     },
     {
