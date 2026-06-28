@@ -1895,15 +1895,23 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "AhÃ­ nos enseÃ±aron tambiÃ©n a leer y a escribir."
+              "text": "Ahí­ nos enseñaron también a leer y a escribir."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "EducaciÃ³n, Saber situado, Aprendizaje colectivo, Pedagogico-Decolonial"
+          "tag": "Saber situado",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Aprendizaje colectivo",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "category": "Pedagogico-Decolonial",
+          "tag": "Educación"
         }
       ],
       "uuid": "08bf48ed-15ce-40ea-997c-5ca045830725"
