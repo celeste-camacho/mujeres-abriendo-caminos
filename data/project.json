@@ -279,10 +279,6 @@
         },
         {
           "category": "Cuerpo y Territorio",
-          "tag": "Mesoamerica"
-        },
-        {
-          "category": "Cuerpo y Territorio",
           "tag": "Los Angeles"
         },
         {
@@ -804,7 +800,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-28T16:21:28.882Z",
+    "updated_at": "2026-06-28T16:21:41.880Z",
     "generate_pages_site": true
   },
   "annotations": {},
