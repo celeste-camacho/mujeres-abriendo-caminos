@@ -230,12 +230,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mujeres jÃ³venes en la lucha â artÃ­stica sonora"
+              "text": "Mujeres jóvenes en la lucha, artística sonora"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Entonación"
+        },
+        {
+          "tag": "Ancestras",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Archivo vivo",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Esperanza",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "84afe10b-1485-4977-9a36-9e5976acd110"
     },
     {
