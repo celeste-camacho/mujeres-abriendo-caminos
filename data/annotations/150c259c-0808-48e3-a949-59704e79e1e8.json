@@ -1112,24 +1112,24 @@
           "category": "Estetico-Sonoro"
         },
         {
-          "tag": "Tono",
-          "category": "Estetico-Sonoro"
-        },
-        {
           "category": "Estetico-Sonoro",
           "tag": "Entonación"
         },
         {
-          "tag": "Derechos",
-          "category": "Politica y Resistencia"
+          "tag": "Tono",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "Jun Colbete"
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "Radio Mam"
         },
         {
           "category": "Politica y Resistencia",
           "tag": "Comunicación comunitaria"
-        },
-        {
-          "category": "Politica y Resistencia",
-          "tag": "Política"
         }
       ],
       "uuid": "3631f071-83be-46d4-a8ea-438e9650a5e8"
