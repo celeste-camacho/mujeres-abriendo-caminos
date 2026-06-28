@@ -1260,8 +1260,16 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "MÃºsica, Voz colectiva, PoesÃ­a, ParticipaciÃ³n"
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Poesía"
         }
       ],
       "uuid": "c7809021-785d-42b5-80f1-dd01acbcfa6a"
