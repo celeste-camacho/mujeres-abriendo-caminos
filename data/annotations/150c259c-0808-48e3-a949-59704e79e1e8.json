@@ -2546,7 +2546,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Denuncia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "0c2ee7a4-69cf-4ebc-8d83-1d60d8d41055"
     },
     {
