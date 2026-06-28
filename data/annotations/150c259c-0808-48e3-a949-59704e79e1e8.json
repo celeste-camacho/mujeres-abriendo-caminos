@@ -1574,15 +1574,35 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Â¿Va querer papa? Pasen seÃ±o. Cargo tomates, seÃ±o. Tengo tomates. [idioma indÃ­gena] con la Luisa. [idioma indÃ­gena] Sabatioch, doÃ±a Adelina, la gente de las comunidades que usted convocÃ³ ya estÃ¡ aquÃ­."
+              "text": "¿Va a querer papa? Pasen seño. Cargo tomates, seño. Tengo tomates. [idioma indí­gena] con la Luisa. [idioma indí­gena] Sabatioch, doña Adelina, la gente de las comunidades que usted convocó ya está aquí­."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Tierra, Mujeres indÃ­genas, OrganizaciÃ³n, Cuerpo, Territorio"
+          "tag": "Tierra",
+          "category": "Ecosocial"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Mujeres rurales",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
         }
       ],
       "uuid": "0f297bce-8e84-41a6-bbdd-0810ccf605a1"
