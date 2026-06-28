@@ -306,10 +306,6 @@
           "tag": "Reparacion"
         },
         {
-          "category": "Politica y Resistencia",
-          "tag": "Articulacion"
-        },
-        {
           "category": "Cuerpo y Territorio",
           "tag": "Mesoamérica"
         },
@@ -788,7 +784,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-28T16:23:32.500Z",
+    "updated_at": "2026-06-28T16:23:51.765Z",
     "generate_pages_site": true
   },
   "annotations": {},
