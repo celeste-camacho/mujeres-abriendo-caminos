@@ -830,12 +830,21 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Estamos reunidos para dar lectura al Acta de PosesiÃ³n de la seÃ±ora Blanca Luz Molina de RodrÃ­guez, del partido Movimiento de LiberaciÃ³n Nacional. Por cierto, es la primera mujer en ocupar una curul en el Congreso de la RepÃºblica."
+              "text": "Estamos reunidos para dar lectura al Acta de Posesión de la señora Blanca Luz Molina de Rodríguez, del partido Movimiento de Liberación Nacional. Por cierto, es la primera mujer en ocupar una curul en el Congreso de la República."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "03622521-5683-4723-8d40-667a098caa6b"
     },
     {
