@@ -508,12 +508,29 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Hoy nos vamos a reunir en la AsociaciÃ³n de Estudiantes de la San Carlos. Por ahÃ­ viene Rogelia Cruz. Si ven a Alba Estela Maldonado y Ibonne Lima y a todas las demÃ¡s compaÃ±eras del nivel medio del Frente Unido del Estudiantado Organizado, que tengan cuidado porque nos tienen en la mira."
+              "text": "Hoy nos vamos a reunir en la Asociación de Estudiantes de la San Carlos. Por ahí viene Rogelia Cruz. Si ven a Alba Estela Maldonado y Ibonne Lima y a todas las demás compañeras del nivel medio del Frente Unido del Estudiantado Organizado, que tengan cuidado porque nos tienen en la mira."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        }
+      ],
       "uuid": "361e1d92-d1f9-4e66-b23b-097c1b82a1b4"
     },
     {
