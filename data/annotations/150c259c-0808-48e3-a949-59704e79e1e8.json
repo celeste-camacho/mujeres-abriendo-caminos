@@ -1681,12 +1681,25 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Â¿QuÃ©? Â¿QuÃ© querÃ©s? Â¿QuÃ© haces aquÃ­ con toda tu gente?"
+              "text": "¿Qué? ¿Qué querés? ¿Qué haces aquí­ con toda tu gente?"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Denuncia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        }
+      ],
       "uuid": "eb9e3ed4-6e32-4dfb-aed2-ee8226ef6e6a"
     },
     {
