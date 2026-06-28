@@ -1422,15 +1422,31 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Nadie quedÃ³ a salvo de los efectos de la guerra en nuestro paÃ­s. Incluso, despuÃ©s de 10 aÃ±os de firmada la paz, la sociedad guatemalteca aÃºn no se repone de la pÃ©rdida violenta de cientos de miles de vidas, mujeres y hombres, niÃ±as y niÃ±os, ancianas y ancianos del campo y la ciudad, estudiantes, obreros y obreras, campesinos y campesinas, maestras y maestros, cuyos nombres, rostros e historias, reclaman que no olvidemos lo sucedido."
+              "text": "Nadie queda a salvo de los efectos de la guerra en nuestro país. Incluso, después de 10 años de firmada la paz, la sociedad guatemalteca aún no se repone de la pérdida violenta de cientos de miles de vidas, mujeres y hombres, niñas y niños, ancianas y ancianos del campo y la ciudad, estudiantes, obreros y obreras, campesinos y campesinas, maestras y maestros, cuyos nombres, rostros e historias, reclaman que no olvidemos lo sucedido."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Memoria colectiva, ReparaciÃ³n, Derechos, PolÃ­tica, Resistencia"
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
         }
       ],
       "uuid": "017e26f3-7191-4aae-acfc-44f1c0ad95df"
