@@ -905,12 +905,37 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Raquel BlandÃ³n, apurÃ¡te que la primera Conferencia Mundial de las Mujeres va a empezar en unas horas."
+              "text": "Raquel Blandón, apurate que la primera Conferencia Mundial de las Mujeres va a empezar en unas horas."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Aprendizaje colectivo",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "category": "Pedagogico-Decolonial",
+          "tag": "Educación"
+        },
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Resistencia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Esperanza",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "50e330bf-83aa-4e4e-b201-3882d6228f48"
     },
     {
