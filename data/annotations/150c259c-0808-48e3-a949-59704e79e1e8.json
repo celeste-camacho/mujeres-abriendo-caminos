@@ -2821,7 +2821,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Discriminación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Represión"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        }
+      ],
       "uuid": "eab166de-71f0-467b-acaa-a915d642541a"
     },
     {
