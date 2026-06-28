@@ -2525,6 +2525,10 @@
         {
           "tag": "Territorio",
           "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Discriminación"
         }
       ],
       "uuid": "3a459655-0dd6-4e69-b8d0-e6355d2bb742"
