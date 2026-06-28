@@ -586,6 +586,30 @@
         {
           "category": "Actores y referentes",
           "tag": "Rogelia Cruz"
+        },
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Ancestras",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
         }
       ],
       "uuid": "b5c5020e-ad84-4fbf-8fda-1f31a738ea8f"
