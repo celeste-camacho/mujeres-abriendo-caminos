@@ -303,10 +303,6 @@
         },
         {
           "category": "Politica y Resistencia",
-          "tag": "Participacion"
-        },
-        {
-          "category": "Politica y Resistencia",
           "tag": "Reparacion"
         },
         {
@@ -796,7 +792,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-28T16:22:17.500Z",
+    "updated_at": "2026-06-28T16:22:54.399Z",
     "generate_pages_site": true
   },
   "annotations": {},
