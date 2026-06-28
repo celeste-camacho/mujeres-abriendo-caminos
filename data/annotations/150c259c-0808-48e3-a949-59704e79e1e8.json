@@ -1615,15 +1615,27 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Que bueno, porque nos costÃ³ mucho conseguir que el alcalde nos atendiera. Ãl tiene que ver que estamos organizados."
+              "text": "Que bueno, porque nos costó mucho conseguir que el alcalde nos atendiera. Él tiene que ver que estamos organizados."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "OrganizaciÃ³n, ParticipaciÃ³n, Lucha, PolÃ­tica, Resistencia"
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
         }
       ],
       "uuid": "bbc35442-d3ad-4379-b928-65f09c2b5fd5"
