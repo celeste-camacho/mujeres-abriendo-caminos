@@ -2208,7 +2208,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Poesía"
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "Eladia Blazquez"
+        },
+        {
+          "tag": "Esperanza",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "b669008e-4120-4eab-ad3a-344a194ddda4"
     },
     {
