@@ -1219,8 +1219,28 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "MÃºsica, Voz colectiva, PoesÃ­a"
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Poesía"
+        },
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Archivo vivo",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Esperanza",
+          "category": "Politica y Resistencia"
         }
       ],
       "uuid": "98666a80-c39f-48c1-9b37-57f9f6f1682d"
