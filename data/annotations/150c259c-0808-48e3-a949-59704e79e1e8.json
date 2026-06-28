@@ -855,12 +855,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mientras se agudizaba la represiÃ³n en el paÃ­s, las mujeres en el mundo levantaban sus voces. En 1975 fue declarado el primer AÃ±o Internacional de la Mujer."
+              "text": "Mientras se agudizaba la represión en el paí­s, las mujeres en el mundo levantaban sus voces. En 1975 fue declarado el primer Año Internacional de la Mujer."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        }
+      ],
       "uuid": "d9b0b73f-6924-489d-98bc-6f7602b9192e"
     },
     {
