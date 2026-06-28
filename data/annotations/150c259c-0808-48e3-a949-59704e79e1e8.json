@@ -2686,7 +2686,40 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Denuncia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Derechos Humanos"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Represión"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        }
+      ],
       "uuid": "4d5ac6ce-bf5e-4c4e-9682-03051d24720b"
     },
     {
