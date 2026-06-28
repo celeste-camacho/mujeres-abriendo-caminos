@@ -1282,15 +1282,15 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "[mÃºsica]"
+              "text": "[música]"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "MÃºsica, PoesÃ­a"
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
         }
       ],
       "uuid": "f7697908-b2e8-4d91-88e0-5f0a68006f55"
