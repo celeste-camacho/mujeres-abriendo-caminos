@@ -274,10 +274,6 @@
           "tag": "Los Angeles"
         },
         {
-          "category": "Cuerpo y Territorio",
-          "tag": "Mexico"
-        },
-        {
           "category": "Estetico-Sonoro",
           "tag": "Musica"
         },
@@ -768,7 +764,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-28T16:25:54.001Z",
+    "updated_at": "2026-06-28T16:26:02.301Z",
     "generate_pages_site": true
   },
   "annotations": {},
