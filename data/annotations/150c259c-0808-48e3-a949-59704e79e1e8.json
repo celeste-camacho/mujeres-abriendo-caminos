@@ -422,12 +422,37 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Por los meses de marzo y abril de 1962, la capital viviÃ³ fuertes jornadas de protesta."
+              "text": "Por los meses de marzo y abril de 1962, la capital vivió fuertes jornadas de protesta."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Resistencia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        }
+      ],
       "uuid": "dc46ced5-0782-4184-81cf-c45ed3103508"
     },
     {
