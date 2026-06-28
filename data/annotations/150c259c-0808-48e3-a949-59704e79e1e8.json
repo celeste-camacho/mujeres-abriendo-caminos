@@ -2352,7 +2352,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Represión"
+        }
+      ],
       "uuid": "24d4ca20-fc48-493c-8cea-c817fda09a68"
     },
     {
