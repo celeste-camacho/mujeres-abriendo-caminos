@@ -127,12 +127,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Se hacÃ­an evidentes las brechas cada vez mÃ¡s profundas entre quienes poseen todo y quienes no tienen nada, lo que se traduce en la pobreza, la falta de oportunidades para la educaciÃ³n, la vivienda, los servicios de salud, el trabajo. Estas oportunidades han sido negadas sobre todo a mujeres indÃ­genas y poblaciÃ³n rural."
+              "text": "Se hacían evidentes las brechas cada vez más profundas entre quienes poseen todo y quienes no tienen nada, lo que se traduce en la pobreza, la falta de oportunidades para la educación, la vivienda, los servicios de salud, el trabajo. Estas oportunidades han sido negadas sobre todo a mujeres indígenas y población rural."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Diversidad cultural",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Mujeres rurales",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "category": "Pedagogico-Decolonial",
+          "tag": "Educación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        }
+      ],
       "uuid": "25dad935-f2c3-46a5-a349-31a394ebb8f4"
     },
     {
