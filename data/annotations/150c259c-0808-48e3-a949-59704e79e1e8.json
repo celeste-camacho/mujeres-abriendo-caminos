@@ -2861,12 +2861,29 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Voces, bullicios, reclamos"
+              "text": "[sonidos ambiente] Voces, bullicios, reclamos"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Ruido",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Entonación"
+        },
+        {
+          "tag": "Denuncia",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "4cf8f78f-818a-4c4d-a0f3-47a8ae74342e"
     },
     {
