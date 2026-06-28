@@ -308,12 +308,33 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "La autoridad nos anda controlando por dondequiera, como si luchar por un pedazo de tierra para los pobres fuera un delito. Esto no puede seguir asÃ­."
+              "text": "La autoridad nos anda controlando por dondequiera, como si luchar por un pedazo de tierra para los pobres fuera un delito. Esto no puede seguir así­."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        }
+      ],
       "uuid": "34cf6dfc-3e61-494e-bfec-dc29d620191b"
     },
     {
