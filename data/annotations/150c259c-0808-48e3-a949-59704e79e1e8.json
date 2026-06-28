@@ -2612,7 +2612,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Articulación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        }
+      ],
       "uuid": "bcd5142a-1e37-4a32-bb63-4149f5f7e9e2"
     },
     {
