@@ -2110,7 +2110,32 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Esperanza",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Sororidad",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        }
+      ],
       "uuid": "eb58d4ad-fcc0-4b1f-91d5-b9641b051e24"
     },
     {
