@@ -173,6 +173,14 @@
         {
           "category": "Politica y Resistencia",
           "tag": "Política"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Resistencia",
+          "category": "Politica y Resistencia"
         }
       ],
       "uuid": "46593e62-d2e9-473a-9fc1-a1a4b91b4672"
