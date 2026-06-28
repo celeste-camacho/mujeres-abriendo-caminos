@@ -267,12 +267,37 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Los aires de democracia inspirados por la RevoluciÃ³n de Octubre, quedaron lejos. El general YdÃ­goras Fuentes asumiÃ³ el poder en 1958. Tres aÃ±os despuÃ©s permitiÃ³ que militares norteamericanos usaran el territorio guatemalteco como base de operaciones para invadir la BahÃ­a de Cochinos y truncar la RevoluciÃ³n Cubana. Esta acciÃ³n y la represiÃ³n contra la poblaciÃ³n provocaron el resurgimiento de la organizaciÃ³n popular."
+              "text": "Los aires de democracia inspirados por la Revolución de Octubre, quedaron lejos. El general Ydí­goras Fuentes asumió el poder en 1958. Tres años después permitió que militares norteamericanos usaran el territorio guatemalteco como base de operaciones para invadir la Bahía de Cochinos y truncar la Revolución Cubana. Esta acción y la represión contra la población provocaron el resurgimiento de la organización popular."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Diversidad cultural",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Centroamérica"
+        }
+      ],
       "uuid": "f6a9ce85-c0ea-4544-b8f9-286acdefa53e"
     },
     {
