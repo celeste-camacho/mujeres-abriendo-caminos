@@ -1995,7 +1995,36 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "México"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "Mamá Maquín "
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "Adelina Caal"
+        }
+      ],
       "uuid": "2e86935f-a701-4894-8ba4-8950089792b1"
     },
     {
