@@ -748,12 +748,41 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Â¿Segura que todas? Porque yo no sÃ© leer ni escribir."
+              "text": "¿Segura que todas? Porque yo no sé leer ni escribir."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Aprendizaje colectivo",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "category": "Pedagogico-Decolonial",
+          "tag": "Educación"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        },
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        }
+      ],
       "uuid": "7a10e29d-38e3-4470-b1dd-8d8ac0ca6da0"
     },
     {
