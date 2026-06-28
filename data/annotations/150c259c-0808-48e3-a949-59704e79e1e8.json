@@ -655,6 +655,26 @@
         {
           "tag": "Comunidad",
           "category": "Pedagogico-Decolonial"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        },
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
         }
       ],
       "uuid": "48c334d4-ad17-4f2a-aa0a-b77b6bd55031"
