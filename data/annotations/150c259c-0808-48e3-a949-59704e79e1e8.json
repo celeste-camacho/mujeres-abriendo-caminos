@@ -577,12 +577,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Estamos aquÃ­ para honrar la memoria de Rogelia Cruz, estudiante de arquitectura. Sus 28 aÃ±os de vida fueron truncados por las fuerzas represivas, como sucediÃ³ con Nora Paiz."
+              "text": "Estamos aquí­ para honrar la memoria de Rogelia Cruz, estudiante de arquitectura. Sus 28 años de vida fueron truncados por las fuerzas represivas, como sucedió con Nora Paiz."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Actores y referentes",
+          "tag": "Rogelia Cruz"
+        }
+      ],
       "uuid": "b5c5020e-ad84-4fbf-8fda-1f31a738ea8f"
     },
     {
