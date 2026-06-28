@@ -2418,7 +2418,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Esperanza",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "1eaef8c3-9aaf-4e14-9750-147fedc8750f"
     },
     {
