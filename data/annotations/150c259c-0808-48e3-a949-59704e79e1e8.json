@@ -3022,7 +3022,40 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Tierra",
+          "category": "Ecosocial"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Guerra"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Esperanza",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "6a4b6c27-968b-4d9f-bd17-dd2eb0eea363"
     },
     {
