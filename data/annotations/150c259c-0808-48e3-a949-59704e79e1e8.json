@@ -1504,15 +1504,27 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "[Spot mujeres haciendo historia, rompiendo fronteras /artÃ­stica/ idioma indÃ­gena]"
+              "text": "[Spot mujeres haciendo historia, rompiendo fronteras /artí­stica/ idioma indí­gena]"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "ComunicaciÃ³n comunitaria, Mujeres indÃ­genas, Voz colectiva"
+          "category": "Politica y Resistencia",
+          "tag": "Comunicación comunitaria"
+        },
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
         }
       ],
       "uuid": "5ebeaf9d-c035-4075-b1e9-aeb1db6f751b"
