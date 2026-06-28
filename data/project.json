@@ -271,10 +271,6 @@
         },
         {
           "category": "Estetico-Sonoro",
-          "tag": "Musica"
-        },
-        {
-          "category": "Estetico-Sonoro",
           "tag": "Poesi­a"
         },
         {
@@ -760,7 +756,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-28T16:26:33.040Z",
+    "updated_at": "2026-06-28T16:26:39.224Z",
     "generate_pages_site": true
   },
   "annotations": {},
