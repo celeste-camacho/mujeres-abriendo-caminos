@@ -1739,15 +1739,27 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Mira bien para allÃ¡, si quieren tierras, tierras tendrÃ¡n, pero en el cementerio."
+              "text": "Mira bien para allá, si quieren tierras, tierras tendrán, pero en el cementerio."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Violencias, Denuncia, Tierra, PolÃ­tica, Resistencia, Segato"
+          "tag": "Tierra",
+          "category": "Ecosocial"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Denuncia",
+          "category": "Politica y Resistencia"
         }
       ],
       "uuid": "a7916f06-c8db-4bd0-842f-222290c1b1f3"
