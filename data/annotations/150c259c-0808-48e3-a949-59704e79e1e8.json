@@ -3104,7 +3104,32 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        }
+      ],
       "uuid": "5503853d-100b-4a9e-b070-175884e5321d"
     },
     {
