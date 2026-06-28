@@ -1772,15 +1772,31 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Kana Adelina. Kana Adelina. Ay Dios. [llora] Mataron a nuestra MamÃ¡ MaquÃ­n junto con sus nietas."
+              "text": "Kana Adelina. Kana Adelina. Ay Dios. [llora] Mataron a nuestra Mamá Maquí­n junto con sus nietas."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Violencias, Mujeres indÃ­genas, Tierra, Cuerpo y Territorio; PolÃ­tica y Resistencia"
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Llanto",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Entonación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
         }
       ],
       "uuid": "1aa36a2d-4433-4f60-8f3b-21e648ab3567"
