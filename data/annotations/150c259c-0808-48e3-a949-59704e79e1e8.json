@@ -2241,7 +2241,28 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Actores y referentes",
+          "tag": "Eladia Blazquez"
+        },
+        {
+          "tag": "Esperanza",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        }
+      ],
       "uuid": "ee0ed428-5d32-4e1c-882d-0f14cdd941fa"
     },
     {
