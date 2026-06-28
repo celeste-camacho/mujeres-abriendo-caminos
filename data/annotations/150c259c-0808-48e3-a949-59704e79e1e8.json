@@ -1147,7 +1147,36 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Actores y referentes",
+          "tag": "Domitila Pérez"
+        },
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Mujeres rurales",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        }
+      ],
       "uuid": "01b7e332-37d3-4b5c-93b5-2908ac00338c"
     },
     {
