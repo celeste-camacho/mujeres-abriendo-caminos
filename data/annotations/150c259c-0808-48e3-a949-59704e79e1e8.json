@@ -2040,7 +2040,12 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Actores y referentes",
+          "tag": "Asociación de Mujeres Adelina Caal Maquín"
+        }
+      ],
       "uuid": "70c604d1-c179-426c-8479-23b9872795bf"
     },
     {
