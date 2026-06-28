@@ -1336,15 +1336,39 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Desahuciado estÃ¡ el que tiene que marchar para vivir una cultura diferente. Solo le pido a Dios que la guerra no me sea indiferente, es un monstruo grande y pisa fuerte toda la pobre inocencia de la gente. Es un monstruo grande y pisa fuerte toda la pobre inocencia de la gente. [aplausos]"
+              "text": "Desahuciado está el que tiene que marchar para vivir una cultura diferente. Solo le pido a Dios que la guerra no me sea indiferente, es un monstruo grande y pisa fuerte toda la pobre inocencia de la gente. Es un monstruo grande y pisa fuerte toda la pobre inocencia de la gente. [aplausos]"
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "MÃºsica, Resitencia, PoesÃ­a, Voz Colectiva, Cuerpo, Territorio"
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "Mercedes Sosa"
+        },
+        {
+          "tag": "Desigualdad",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Cultura"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Migración"
         }
       ],
       "uuid": "c05c6be4-2ace-4f65-ae3e-e0541542a087"
