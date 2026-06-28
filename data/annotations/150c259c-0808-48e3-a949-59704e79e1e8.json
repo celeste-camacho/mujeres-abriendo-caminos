@@ -954,12 +954,53 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Ese mismo aÃ±o las voces de las mujeres incursionaron en las radios educativo-culturales."
+              "text": "Ese mismo año las voces de las mujeres incursionaron en las radios educativo-culturales."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Diversidad cultural",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Pedagogico-Decolonial",
+          "tag": "Educación"
+        },
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Comunicacion comunitaria"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Mujeres rurales",
+          "category": "Cuerpo y Territorio"
+        }
+      ],
       "uuid": "900d93a8-18af-4221-93c2-3bcc040631d6"
     },
     {
