@@ -1192,7 +1192,16 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Actores y referentes",
+          "tag": "WAC"
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "Red Mujeres al Aire"
+        }
+      ],
       "uuid": "9cb276fb-9a93-433f-8ce1-d19d27f49498"
     },
     {
