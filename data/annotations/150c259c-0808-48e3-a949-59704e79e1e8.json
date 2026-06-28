@@ -2735,7 +2735,36 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Poesía"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "tag": "Tono",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Derechos Humanos"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        }
+      ],
       "uuid": "2cf6ec0e-541b-48b4-9de1-e49423655df4"
     },
     {
