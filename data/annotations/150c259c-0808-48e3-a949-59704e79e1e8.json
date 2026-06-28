@@ -3071,7 +3071,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "tag": "Voces de Mujeres",
+          "category": "Actores y referentes"
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "WAC"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Comunicación comunitaria"
+        }
+      ],
       "uuid": "1f81e999-838d-4775-bb2b-9af39a4a95ac"
     },
     {
