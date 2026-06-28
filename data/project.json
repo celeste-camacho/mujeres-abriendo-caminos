@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "MÃºsica, Resitencia, PoesÃ­a, Voz Colectiva, Cuerpo, Territorio"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Memoria colectiva, Violencias, Denuncia, PolÃ­tica, Resistencia, Voz Colectiva"
         },
         {
@@ -816,7 +812,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-28T23:10:01.360Z",
+    "updated_at": "2026-06-28T23:10:15.284Z",
     "generate_pages_site": true
   },
   "annotations": {},
