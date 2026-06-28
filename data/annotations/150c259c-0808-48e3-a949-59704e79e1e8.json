@@ -345,12 +345,25 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Por eso compaÃ±era, las armas son el Ãºnico camino para instaurar un gobierno del pueblo."
+              "text": "Por eso compañera, las armas son el único camino para instaurar un gobierno del pueblo."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Denuncia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        }
+      ],
       "uuid": "1f6e3c0c-c178-47e5-a8c0-bab12c5faa76"
     },
     {
