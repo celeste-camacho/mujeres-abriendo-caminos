@@ -627,7 +627,36 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Mujeres rurales",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Diversidad cultural",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        }
+      ],
       "uuid": "48c334d4-ad17-4f2a-aa0a-b77b6bd55031"
     },
     {
