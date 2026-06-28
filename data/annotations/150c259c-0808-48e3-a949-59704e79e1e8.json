@@ -1858,15 +1858,31 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "SÃ­, tuvimos que salir corriendo de nuestra casa sin nada para salvar la vida. AllÃ¡ solo estÃ¡bamos posando. No pudimos tener un pedazo de tierra, pero ahÃ­ aprendimos a hablar espaÃ±ol y varios idiomas mayas."
+              "text": "Sí­, tuvimos que salir corriendo de nuestra casa sin nada para salvar la vida. Allá solo estábamos posando. No pudimos tener un pedazo de tierra, pero ahí­ aprendimos a hablar español y varios idiomas mayas."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "MigraciÃ³n, Identidad, EducaciÃ³n, Cuerpo, Territorio, Exilio"
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Pedagogico-Decolonial",
+          "tag": "Educación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Migración"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
         }
       ],
       "uuid": "34289759-5568-4b8f-bc72-29280f89ad8f"
