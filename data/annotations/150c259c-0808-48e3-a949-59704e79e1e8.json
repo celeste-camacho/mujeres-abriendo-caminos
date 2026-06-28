@@ -1032,15 +1032,35 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Margarita Lanzer, Imelda Asturias e InÃ©s Trota por Radio QuichÃ© y Modesta BÃ¡maca en Radio La Voz de Colomba."
+              "text": "Margarita Lanzer, Imelda Asturias e Inés Trota por Radio Quiché y Modesta Bámaca en Radio La Voz de Colomba."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Mujeres indÃ­genas, ComunicaciÃ³n comunitaria, Territorio, Cuerpo y Territorio, Margarita Lancer, Imelda Asturias, InÃ©s Trota, Radio La Voz de Colomba, Radio QuichÃ©"
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Diversidad cultural",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Mujeres rurales",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Comunicación comunitaria"
         }
       ],
       "uuid": "3bf89629-9759-44e6-8657-5841be5bc2dd"
