@@ -463,12 +463,41 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Como estudiantes del pueblo de Guatemala, nos unimos a las amas de casa, sindicalistas, periodistas y maestros para exigir el fin del toque de queda y libertad para participar polÃ­ticamente. Por eso, que renuncie YdÃ­goras."
+              "text": "Como estudiantes del pueblo de Guatemala, nos unimos a las amas de casa, sindicalistas, periodistas y maestros para exigir el fin del toque de queda y libertad para participar políticamente. Por eso, que renuncie Ydí­goras."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Guatemala",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Resistencia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Lucha",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        }
+      ],
       "uuid": "846a2a91-3bad-4d06-a358-7e89fbe8cbeb"
     },
     {
