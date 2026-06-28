@@ -2780,7 +2780,32 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Grito"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Denuncia",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Derechos Humanos"
+        }
+      ],
       "uuid": "7d7abdf1-f573-48d1-9880-ceb3a66de8cf"
     },
     {
