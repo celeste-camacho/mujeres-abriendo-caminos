@@ -230,10 +230,6 @@
           "category": "Politica y Resistencia"
         },
         {
-          "tag": "Resistencia",
-          "category": "Politica y Resistencia"
-        },
-        {
           "tag": "Denuncia",
           "category": "Politica y Resistencia"
         },
@@ -780,7 +776,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-06-28T16:24:15.045Z",
+    "updated_at": "2026-06-28T16:24:39.477Z",
     "generate_pages_site": true
   },
   "annotations": {},
