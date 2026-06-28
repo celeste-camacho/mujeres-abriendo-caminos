@@ -164,12 +164,17 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Esta situaciÃ³n interna, sumada a los intereses internacionales, particularmente de los Estados Unidos en mantener su poderÃ­o econÃ³mico, polÃ­tico y militar, hicieron que cualquier intento de denuncia de levantar la voz contra los poderes establecidos fuera reprimida a sangre y fuego."
+              "text": "Esta situación interna, sumada a los intereses internacionales, particularmente de los Estados Unidos en mantener su poderí­o económico, polí­tico y militar, hicieron que cualquier intento de denuncia de levantar la voz contra los poderes establecidos fuera reprimida a sangre y fuego."
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        }
+      ],
       "uuid": "46593e62-d2e9-473a-9fc1-a1a4b91b4672"
     },
     {
