@@ -881,7 +881,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "category": "Actores y referentes",
+          "tag": "Luz Mendez de la Vega"
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "Julia Vega"
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "Eulice Lima"
+        }
+      ],
       "uuid": "07326834-1150-4080-85b5-49736c9d414b"
     },
     {
