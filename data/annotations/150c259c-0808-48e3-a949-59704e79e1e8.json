@@ -2389,7 +2389,20 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        }
+      ],
       "uuid": "f0da6b21-aa3e-468e-945b-d16a13f389cf"
     },
     {
