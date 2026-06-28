@@ -197,12 +197,29 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Canto Idioma indÃ­gena"
+              "text": "Canto Idioma indí­gena"
             }
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Diversidad cultural",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "tag": "Memoria colectiva",
+          "category": "Politica y Resistencia"
+        }
+      ],
       "uuid": "838366d9-1ed6-43fa-8833-272b7433aa02"
     },
     {
