@@ -2509,7 +2509,24 @@
           ]
         }
       ],
-      "tags": [],
+      "tags": [
+        {
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        }
+      ],
       "uuid": "3a459655-0dd6-4e69-b8d0-e6355d2bb742"
     },
     {
