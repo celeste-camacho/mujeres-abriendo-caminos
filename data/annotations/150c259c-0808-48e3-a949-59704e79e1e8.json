@@ -698,10 +698,6 @@
           "tag": "Centroamérica"
         },
         {
-          "category": "Pedagogico-Decolonial",
-          "tag": "Educación"
-        },
-        {
           "tag": "Comunidad",
           "category": "Pedagogico-Decolonial"
         },
@@ -726,12 +722,20 @@
           "tag": "Organización"
         },
         {
-          "category": "Politica y Resistencia",
-          "tag": "Articulación"
+          "tag": "Guatemala",
+          "category": "Cuerpo y Territorio"
         },
         {
           "category": "Politica y Resistencia",
           "tag": "Política"
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "Asociación Guatemalteca de Mujeres"
+        },
+        {
+          "category": "Actores y referentes",
+          "tag": "Ana María Vargas"
         }
       ],
       "uuid": "4302f9e0-0fe1-482f-8d00-ca6c2fa1db48"
