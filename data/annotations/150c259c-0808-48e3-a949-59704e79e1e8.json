@@ -1463,15 +1463,35 @@
           "type": "paragraph",
           "children": [
             {
-              "text": "Otros miles de personas tuvieron que salir al exilio forzoso, ubicÃ¡ndose en campamentos de refugiados. Muchos ya no retornaron y otros y otras han tenido que juntar sus dolores y sobrevivir, pero tambiÃ©n seguir luchando para que nunca mÃ¡s haya otra tragedia como esta."
+              "text": "Otros miles de personas tuvieron que salir al exilio forzoso, ubicándose en campamentos de refugiados. Muchos ya no retornaron y otros y otras han tenido que juntar sus dolores y sobrevivir, pero también seguir luchando para que nunca más haya otra tragedia como esta."
             }
           ]
         }
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "MigraciÃ³n, Cuerpo, Territorio, Memoria colectiva, Lucha, PolÃ­tica, Resistencia, Exilio"
+          "tag": "Identidad",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Violencias",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Guerra"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Migración"
         }
       ],
       "uuid": "49597041-32c3-4fa9-b496-039b69b59ed5"
