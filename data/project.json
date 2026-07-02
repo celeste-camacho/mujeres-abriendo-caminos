@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "OrganizaciÃ³n, Memoria colectiva, Lucha, Derechos, PolÃ­tica, Resistencia, Guatemala"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Memoria colectiva, Derechos, ParticipaciÃ³n, PolÃ­tica, Resistencia"
         },
         {
@@ -728,7 +724,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T14:04:30.202Z",
+    "updated_at": "2026-07-02T14:04:37.461Z",
     "generate_pages_site": true
   },
   "annotations": {},
