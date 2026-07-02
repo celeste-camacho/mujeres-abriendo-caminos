@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Violencias, Denuncia, Tierra, PolÃ­tica, Resistencia, Segato"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Violencias, Mujeres indÃ­genas, Tierra, Cuerpo y Territorio; PolÃ­tica y Resistencia"
         },
         {
@@ -956,7 +952,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T13:58:53.201Z",
+    "updated_at": "2026-07-02T13:58:59.319Z",
     "generate_pages_site": true
   },
   "annotations": {},
