@@ -547,10 +547,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Cuerpo y Territorio"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Margarita Lancer"
         },
         {
@@ -672,7 +668,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T14:06:46.436Z",
+    "updated_at": "2026-07-02T14:06:52.001Z",
     "generate_pages_site": true
   },
   "annotations": {},
