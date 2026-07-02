@@ -3737,10 +3737,6 @@
       ],
       "tags": [
         {
-          "category": "_uncategorized_",
-          "tag": "Actores y referentes"
-        },
-        {
           "category": "Politica y Resistencia",
           "tag": "Organización"
         },
@@ -3749,8 +3745,12 @@
           "tag": "Participación"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Política y Resistencia"
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
         }
       ],
       "uuid": "18f35fbe-7994-4d43-87e9-8fd9c192cd6d"
