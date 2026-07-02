@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Memoria colectiva, OrganizaciÃ³n, Sororidad, PolÃ­tica, Resistencia"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Lucha, Derechos, Esperanza, Sororidad, PolÃ­tica, Resistencia"
         },
         {
@@ -920,7 +916,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T13:59:52.688Z",
+    "updated_at": "2026-07-02T13:59:56.828Z",
     "generate_pages_site": true
   },
   "annotations": {},
