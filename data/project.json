@@ -539,10 +539,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Voz Colectiva"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Cuerpo y Territorio; Política y Resistencia"
         },
         {
@@ -660,7 +656,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T15:05:52.247Z",
+    "updated_at": "2026-07-02T15:06:01.250Z",
     "generate_pages_site": true
   },
   "annotations": {},
