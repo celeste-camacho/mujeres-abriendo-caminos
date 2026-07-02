@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Derechos, Memoria colectiva, Esperanza, PolÃ­tica, Resistencia"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Memoria colectiva, OrganizaciÃ³n, Lucha, Derechos, ParticipaciÃ³n, PolÃ­tica, Resistencia"
         },
         {
@@ -896,7 +892,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T14:00:18.799Z",
+    "updated_at": "2026-07-02T14:00:23.925Z",
     "generate_pages_site": true
   },
   "annotations": {},
