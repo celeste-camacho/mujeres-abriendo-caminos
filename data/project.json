@@ -539,10 +539,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "hooks"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Año Internacional de la Mujer"
         },
         {
@@ -684,7 +680,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T14:05:37.638Z",
+    "updated_at": "2026-07-02T14:05:41.930Z",
     "generate_pages_site": true
   },
   "annotations": {},
