@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "ComunicaciÃ³n comunitaria, Memoria colectiva, Derechos, Esperanza, PolÃ­tica, Resistencia"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Mujeres indÃ­genas, Memoria colectiva, Lucha, Esperanza, Cuerpo, Territorio, PolÃ­tica, Resistencia"
         },
         {
@@ -820,7 +816,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T14:02:20.120Z",
+    "updated_at": "2026-07-02T14:02:25.838Z",
     "generate_pages_site": true
   },
   "annotations": {},
