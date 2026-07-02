@@ -551,10 +551,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Territorio; Ana Petrona"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Cuidado"
         },
         {
@@ -632,7 +628,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T15:07:17.634Z",
+    "updated_at": "2026-07-02T15:07:31.328Z",
     "generate_pages_site": true
   },
   "annotations": {},
