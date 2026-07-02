@@ -539,10 +539,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Cuerpo y Territorio; Política y Resistencia"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Pedagogico-Decolonial"
         },
         {
@@ -656,7 +652,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T15:06:01.250Z",
+    "updated_at": "2026-07-02T15:06:09.847Z",
     "generate_pages_site": true
   },
   "annotations": {},
