@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "ParticipaciÃ³n, Memoria colectiva, Derechos, PolÃ­tica,  Resistencia"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "OrganizaciÃ³n, ParticipaciÃ³n, Memoria colectiva, PolÃ­tica,  Resistencia"
         },
         {
@@ -720,7 +716,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T14:04:43.029Z",
+    "updated_at": "2026-07-02T14:04:48.359Z",
     "generate_pages_site": true
   },
   "annotations": {},
