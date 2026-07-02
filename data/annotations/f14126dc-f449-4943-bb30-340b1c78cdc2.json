@@ -1463,16 +1463,8 @@
           "tag": "Música"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Resitencia"
-        },
-        {
           "category": "Estetico-Sonoro",
           "tag": "Poesía"
-        },
-        {
-          "category": "_uncategorized_",
-          "tag": "Voz Colectiva"
         },
         {
           "tag": "Cuerpo",
@@ -1481,6 +1473,14 @@
         {
           "tag": "Territorio",
           "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Voz colectiva",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
         }
       ],
       "uuid": "f1dd196a-fc96-41d9-a444-c572bd50fa95"
