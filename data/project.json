@@ -547,10 +547,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Mujeres Indígenas"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Pablo Milanés"
         },
         {
@@ -624,7 +620,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T15:08:21.391Z",
+    "updated_at": "2026-07-02T15:08:26.414Z",
     "generate_pages_site": true
   },
   "annotations": {},
