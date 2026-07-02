@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "OrganizaciÃ³n, ParticipaciÃ³n, Aprendizaje colectivo, PolÃ­tica, Resistencia, Georgina Navarro"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "ParticipaciÃ³n, Derechos, Diversidad cultural, Georgina Navarro, PolÃ­tica, Resistencia"
         },
         {
@@ -748,7 +744,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T14:04:01.644Z",
+    "updated_at": "2026-07-02T14:04:07.223Z",
     "generate_pages_site": true
   },
   "annotations": {},
