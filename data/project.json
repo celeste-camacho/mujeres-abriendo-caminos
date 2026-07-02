@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "OrganizaciÃ³n, ParticipaciÃ³n, Diversidad cultural, Identidad"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "ParticipaciÃ³n, Diversidad cultural, Derechos, PolÃ­tica, Resistencia"
         },
         {
@@ -756,7 +752,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T14:03:43.903Z",
+    "updated_at": "2026-07-02T14:03:57.346Z",
     "generate_pages_site": true
   },
   "annotations": {},
