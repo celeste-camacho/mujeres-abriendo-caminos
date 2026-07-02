@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Memoria colectiva, Mujeres indÃ­genas, Tierra, Violencias, MigraciÃ³n, Cuerpo, Territorio, PolÃ­tica, Resistencia"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "MigraciÃ³n, Identidad, EducaciÃ³n, Cuerpo, Territorio, Exilio"
         },
         {
@@ -948,7 +944,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T13:59:06.462Z",
+    "updated_at": "2026-07-02T13:59:12.089Z",
     "generate_pages_site": true
   },
   "annotations": {},
