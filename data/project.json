@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "OrganizaciÃ³n, ParticipaciÃ³n, Actores y referentes, PolÃ­tica y Resistencia"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Actores y referentes, OrganizaciÃ³n, ParticipaciÃ³n, PolÃ­tica y Resistencia"
         },
         {
@@ -780,7 +776,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T14:03:12.690Z",
+    "updated_at": "2026-07-02T14:03:19.489Z",
     "generate_pages_site": true
   },
   "annotations": {},
