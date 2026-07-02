@@ -2394,10 +2394,6 @@
           "tag": "Música"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Eladia Blázquez"
-        },
-        {
           "tag": "Esperanza",
           "category": "Politica y Resistencia"
         },
@@ -2414,8 +2410,8 @@
           "tag": "Resistencia"
         },
         {
-          "category": "_uncategorized_",
-          "tag": "Honrar la Vida"
+          "category": "Actores y referentes",
+          "tag": "Eladia Blazquez"
         }
       ],
       "uuid": "2a7fd7d4-6554-4cb8-84b6-81d65625eae0"
