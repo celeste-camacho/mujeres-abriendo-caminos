@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "EducaciÃ³n, Saber situado, Aprendizaje colectivo, Pedagogico-Decolonial"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "OrganizaciÃ³n, Derechos, ParticipaciÃ³n, Aprendizaje colectivo, EducaciÃ³n, PolÃ­tica, Resistencia"
         },
         {
@@ -940,7 +936,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T13:59:18.171Z",
+    "updated_at": "2026-07-02T13:59:24.597Z",
     "generate_pages_site": true
   },
   "annotations": {},
