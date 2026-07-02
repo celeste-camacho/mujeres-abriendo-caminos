@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Violencias, OrganizaciÃ³n, Lucha, PolÃ­tica y Resistencia"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "OrganizaciÃ³n, Sororidad, Lucha, PolÃ­tica, Resistencia, Guatemala"
         },
         {
@@ -860,7 +856,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T14:01:10.082Z",
+    "updated_at": "2026-07-02T14:01:18.493Z",
     "generate_pages_site": true
   },
   "annotations": {},
