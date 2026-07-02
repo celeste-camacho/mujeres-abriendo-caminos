@@ -363,10 +363,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Derechos, OrganizaciÃ³n, ParticipaciÃ³n, Tierra, Trabajo, PolÃ­tica, Resistencia, Cuerpo, Territorio"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "MÃºsica, Eladia BlÃ¡zquez, Esperanza, Derechos, PolÃ­tica, Resistencia, Honrar la Vida"
         },
         {
@@ -912,7 +908,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-02T14:00:00.939Z",
+    "updated_at": "2026-07-02T14:00:05.808Z",
     "generate_pages_site": true
   },
   "annotations": {},
