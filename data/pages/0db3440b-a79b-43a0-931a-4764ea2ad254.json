@@ -53,11 +53,12 @@
   "created_by": "celeste-camacho",
   "title": "Centroamérica sin Censura: Mujeres Abriendo Caminos",
   "slug": "centroamerica-sin-censura-mujeres-abriendo-c",
-  "updated_at": "2026-07-03T15:24:48.948Z",
+  "updated_at": "2026-07-03T15:25:57.660Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "b8a148bb-3a20-4798-905f-690c786d7b96"
-  }
+  },
+  "parent": "0ea50fb9-de11-4143-a389-e72fc49e7759"
 }
