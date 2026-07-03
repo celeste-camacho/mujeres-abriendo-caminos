@@ -38,6 +38,80 @@
         {
           "text": ""
         }
+      ],
+      "scale": 30
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "code": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "code": true,
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        3,
+        3
+      ],
+      "children": [
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": "\n<div class=\"flourish-embed flourish-bubble-chart\" data-src=\"visualisation/29585503\"><script src=\"https://public.flourish.studio/resources/embed.js\"></script><noscript><img src=\"https://public.flourish.studio/visualisation/29585503/thumbnail\" width=\"100%\" alt=\"bubble-chart visualization\" /></noscript></div>\n\n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "column",
+          "children": [
+            {
+              "type": "paragraph",
+              "children": [
+                {
+                  "text": ""
+                }
+              ]
+            }
+          ],
+          "right": 10
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "text": ""
+        }
       ]
     },
     {
@@ -53,7 +127,7 @@
   "created_by": "celeste-camacho",
   "title": "Análisis del 10 aniversario de la firma de los acuerdos de paz",
   "slug": "analisis-del-10-aniversario-de-la-firma-de-lo",
-  "updated_at": "2026-07-03T15:43:01.270Z",
+  "updated_at": "2026-07-03T17:59:48.381Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
