@@ -29,17 +29,36 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "image",
+      "url": "https://github.com/celeste-camacho/voces-isabel/blob/main/assets/Voces%20de%20Mujeres_1.png?raw=true",
+      "caption": "Voces de Mujeres, Isabel ",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2026-06-10T00:59:11.168Z",
   "created_by": "celeste-camacho",
   "title": "Análisis del 10 aniversario de la firma de los acuerdos de paz",
   "slug": "analisis-del-10-aniversario-de-la-firma-de-lo",
-  "updated_at": "2026-07-03T15:26:12.160Z",
+  "updated_at": "2026-07-03T15:43:01.270Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "1967934e-d2c1-4277-a564-890d6d0a07b8"
-  }
+  },
+  "parent": "0ea50fb9-de11-4143-a389-e72fc49e7759"
 }
