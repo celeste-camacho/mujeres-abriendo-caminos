@@ -1,0 +1,42 @@
+{
+  "audiovisual_files": {
+    "f547321b-a4f1-4413-8a47-e2a56decd814": {
+      "label": "AV File 1",
+      "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/hrdi/hrdi_af8b2ef0-ba5c-4fb7-9854-9c8ddda0d6ad/PROXY_MP4/hrdi_af8b2ef0-ba5c-4fb7-9854-9c8ddda0d6ad.mp4/playlist.m3u8",
+      "duration": 56065,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Anuncio: Mujeres Abriendo Caminos - Origen",
+          "bold": true
+        },
+        {
+          "text": "\n\nEsta grabación fue creada por la colectiva de radio, Mujeres Abriendo Caminos, para transmisión en KPFK 90.7, una radio comunitaria en Los Angeles, California. Anuncia el congreso de mujeres de enero 2007 donde apareció Ana Silvia Monzón - socióloga, activista, y locutora del programa de radio guatemalteco, Voces de Mujeres. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "| This recording was created by the radio collective, Mujeres Abriendo Caminos, for broadcast on KPFK 90.7 fm, a community radio station in Los Angeles, California. It announces the women's conference that took place in January 2007 that featured Ana Silvia Monzón - sociologist, activist, and broadcaster from the Guatemalan radio program, Voces de Mujeres.\n\n"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-07-09T14:50:39.013Z",
+  "created_by": "celeste-camacho",
+  "label": "A",
+  "updated_at": "2026-07-09T14:50:39.013Z",
+  "updated_by": "celeste-camacho",
+  "rights_statement": "h"
+}
