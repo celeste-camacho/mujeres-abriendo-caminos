@@ -32,6 +32,55 @@
         }
       ],
       "uuid": "ebdf041e-ebc9-45a2-bfc3-9e7dc26b7368"
+    },
+    {
+      "start_time": 3,
+      "end_time": 0,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nAmas de casa, estudiantes, trabajadoras, maestras, empresarias, intelectuales, mujeres todas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Diversidad cultural",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Mujeres rurales",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        }
+      ],
+      "uuid": "b45fa271-97d6-42fb-bd69-7a1bb7f55a44"
     }
   ],
   "set": "Anuncio: Mujeres Abriendo Caminos ",
