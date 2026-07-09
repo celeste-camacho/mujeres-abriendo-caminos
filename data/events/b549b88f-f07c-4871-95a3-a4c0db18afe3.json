@@ -4,7 +4,7 @@
       "label": "AV File 1",
       "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/hrdi/hrdi_af8b2ef0-ba5c-4fb7-9854-9c8ddda0d6ad/PROXY_MP4/hrdi_af8b2ef0-ba5c-4fb7-9854-9c8ddda0d6ad.mp4/playlist.m3u8",
       "duration": 56065,
-      "file_type": "Video"
+      "file_type": "Audio"
     }
   },
   "auto_generate_web_page": true,
@@ -35,8 +35,8 @@
   ],
   "created_at": "2026-07-09T14:50:39.013Z",
   "created_by": "celeste-camacho",
-  "label": "A",
-  "updated_at": "2026-07-09T14:52:18.528Z",
+  "label": "Anuncio: Mujeres Abriendo Caminos ",
+  "updated_at": "2026-07-09T14:53:09.104Z",
   "updated_by": "celeste-camacho",
   "rights_statement": "h",
   "av_file_order": [
