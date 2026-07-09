@@ -81,6 +81,63 @@
         }
       ],
       "uuid": "b45fa271-97d6-42fb-bd69-7a1bb7f55a44"
+    },
+    {
+      "start_time": 10,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Te invitamos al Congreso de Mujeres. Comparte con Ana Silvia Monzón. Comunicadora, socióloga, escritora, madre y activista guatemalteca quien hablará sobre temas relacionados con las mujeres. Migración, organización, violencia y derechos humanos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Actores y referentes",
+          "tag": "Ana Silvia Monzón"
+        },
+        {
+          "category": "Pedagogico-Decolonial",
+          "tag": "Educación"
+        },
+        {
+          "tag": "Aprendizaje colectivo",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Articulación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        }
+      ],
+      "uuid": "2cc93124-ee9d-49ff-a5d7-cd08f968e758"
     }
   ],
   "set": "Anuncio: Mujeres Abriendo Caminos ",
