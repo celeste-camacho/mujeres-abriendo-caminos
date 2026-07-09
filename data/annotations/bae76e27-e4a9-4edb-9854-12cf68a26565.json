@@ -1,5 +1,39 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[música de fondo]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tambores",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
+        }
+      ],
+      "uuid": "ebdf041e-ebc9-45a2-bfc3-9e7dc26b7368"
+    }
+  ],
   "set": "Anuncio: Mujeres Abriendo Caminos ",
   "event_id": "b549b88f-f07c-4871-95a3-a4c0db18afe3",
   "source_id": "f547321b-a4f1-4413-8a47-e2a56decd814"
