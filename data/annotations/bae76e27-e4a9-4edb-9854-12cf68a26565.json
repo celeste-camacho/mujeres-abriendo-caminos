@@ -138,6 +138,35 @@
         }
       ],
       "uuid": "2cc93124-ee9d-49ff-a5d7-cd08f968e758"
+    },
+    {
+      "start_time": 25,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Día 27 de enero del 2007. Lugar, Mercado La Paloma, salón de conferencias, 3655 South Grand Avenue, Los Ángeles, California. De 4:00 PM a 8:00 PM. Entrada gratuita. Más información al teléfono 626-827-3199. Comparte con nosotras y participa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Actores y referentes",
+          "tag": "Conferencia Mundial de las Mujeres"
+        }
+      ],
+      "uuid": "8f4e2b0a-8c98-46e1-b5b6-362c1d5cc8cf"
     }
   ],
   "set": "Anuncio: Mujeres Abriendo Caminos ",
