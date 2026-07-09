@@ -164,6 +164,30 @@
         {
           "category": "Actores y referentes",
           "tag": "Conferencia Mundial de las Mujeres"
+        },
+        {
+          "tag": "Tambores",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Entonación"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
         }
       ],
       "uuid": "8f4e2b0a-8c98-46e1-b5b6-362c1d5cc8cf"
