@@ -620,10 +620,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Pedagogico-decolonial"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Estético-sonoro"
         },
         {
@@ -881,7 +877,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-11T16:01:39.470Z",
+    "updated_at": "2026-07-11T16:01:46.970Z",
     "generate_pages_site": true
   },
   "annotations": {},
