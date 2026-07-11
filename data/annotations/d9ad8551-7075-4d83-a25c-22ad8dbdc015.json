@@ -1,5 +1,406 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 29,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "| música de fondo | Voces de Mujeres un espacio para la expresión. En un clima desfavorable por la cultura de represión estatal y por la cultura patriarcal, surgió en 1993 Voces de Mujeres, iniciativa de comunicación alternativa, feminista, con el propósito de servir de canal de expresión para las mujeres guatemaltecas en toda su diversidad, de abordar temas que atañen a las mujeres, difundir sus derechos como humanas, reconocer sus aportes pasados y presentes, identificar sus sueños y expectativas, vincularse con los movimientos sociales y particularmente con el movimiento de mujeres "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "767226e5-7ffc-42f1-97f3-ff12e1c7182d"
+    },
+    {
+      "start_time": 29,
+      "end_time": 58,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Mujer, si te han crecido las ideas de ti van a decir cosas muy feas. “A lo largo de 17 años Voces de Mujeres a producido y transmitido aproximadamente 29,950 programas”. |Continua la canción| Que no eres buena, que si tal cosa, que cuando callas te ves mucho más hermosa."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8c5959e9-2503-430a-ad04-77ba1ed71f7f"
+    },
+    {
+      "start_time": 58,
+      "end_time": 81,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Hoy les damos la cordial bienvenida a nuestro programa, que hoy es una edición muy especial porque es nuestro aniversario. Les saluda Ana Silvia Monzón. Queremos desde ya el saludo para todas las personas que nos escuchan, mujeres y hombres que a lo largo de estos 17 años han seguido la trayectoria de Voces de Mujeres."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fe51651e-2c1d-43b9-9f1c-fbb4d049bf3a"
+    },
+    {
+      "start_time": 82,
+      "end_time": 95,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Diecisiete años de darnos cuenta de los aportes de las mujeres en la historia, de los retos de las mujeres de hoy, de proyectos, logros, limitaciones, sueños y realidades."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "1862acbf-89ec-4da0-9a70-fd26d8c2e957"
+    },
+    {
+      "start_time": 96,
+      "end_time": 118,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ellas es un colectivo de mujeres académicas de diferentes organizaciones de tipo individual que hace 17 años decidieron crear ese colectivo como un medio radial para la defensa de los derechos de las mujeres, que aquí en esta cultura patriarcal machista es muy fuerte. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "8f5ac4d7-4385-4663-9bdb-73aab74ef86a"
+    },
+    {
+      "start_time": 119,
+      "end_time": 133,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por otro lado, también es un foro abierto, en donde las mujeres tenemos la oportunidad de ir a presentar nuestros logros, nuestras conquistas, nuestros retos, los problemas que afrontamos en cualquier parte de la sociedad en donde estemos trabajando."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2c097dc0-dc67-40ea-bb0a-3dc1d7e7ee07"
+    },
+    {
+      "start_time": 133,
+      "end_time": 163,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creo que vino a abrir un espacio que era necesario en el momento en el que surge el programa, cuando empezaban a vislumbrarse los primeros movimientos de mujeres en nuestro país. Era un poco difícil en el momento en el que se da. Estábamos todavía viviendo dentro de un conflicto armado en el que no se permitía todavía cierta libertad de expresión."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "599d14dd-a9f7-4140-a7c1-103981f74547"
+    },
+    {
+      "start_time": 163,
+      "end_time": 180,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voces de Mujeres viene a romper de alguna manera con esa barrera que existía y que se convierte en una voz para aquellos grupos de mujeres que de alguna manera estaban buscando formas de expresión mucho más amplias"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "23631534-69a2-48d4-aa49-6261ae748e68"
+    },
+    {
+      "start_time": 181,
+      "end_time": 210,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "De empezar con un trabajo periodístico, de empezar con un trabajo de difusión nada más se fue convirtiendo en un referente para el movimiento de mujeres. Voces de Mujeres participa en la mayoría de los espacios organizados, tanto de sociedad civil como en interacción con el Estado, en los temas de derechos de las mujeres. Ha ampliado su vínculo, su impulso y su trabajo hacia mujeres guatemaltecas migrantes en otros países."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fcc5b6e8-d167-4e58-82d6-cad3f3b247e0"
+    },
+    {
+      "start_time": 210,
+      "end_time": 241,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creo que lo más importante que hizo Voces, especialmente al inicio, es decirnos y demostrarnos que no estábamos solas. Es que habíamos unas por aquí, otras por acá, qué sé yo, pero Voces logra integrarnos, logra darnos a conocer que está la lucha de muchas otras mujeres en Guatemala y que no estamos tan locas como nos dicen, que nuestra esperanza, nuestra lucha y nuestras utopías van juntas, caminando juntas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "4654525e-ede8-4d62-b6b3-243b8e47a08c"
+    },
+    {
+      "start_time": 242,
+      "end_time": 277,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voces de Mujeres ha representado un proyecto en Guatemala que vino de alguna forma yo le llamo a romper el silencio. Son 17 años de vida de este proyecto, a través de los cuales las mujeres hemos tenido un instrumento a través del cual hacer llegar nuestros planteamientos, nuestras propuestas, nuestras críticas. También donde hemos dado a conocer nuestra lucha. Ha jugado un papel muy determinante en la vida nacional y en la vida de las mujeres."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "fb54619c-6869-4218-a4f4-48fb1c593b6a"
+    },
+    {
+      "start_time": 277,
+      "end_time": 310,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voces de Mujeres para Naik Madera ha significado muchas oportunidades, intercambios, compartir experiencias. Agradecemos a todas las que han estado involucradas, porque de varias de las que han sido protagonistas también nos han brindado una mano, asesoría en ciertos momentos para ir nosotras fortaleciéndonos e ir creciendo como grupo. Ellas nos han abierto las puertas, como decían las compañeras, para dar a conocer nuestro trabajo artístico y también de visibilizar la realidad, condiciones, derechos que vivimos las mujeres."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "72f8358f-9333-4b6e-af32-11e738672dd2"
+    },
+    {
+      "start_time": 311,
+      "end_time": 328,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El simple hecho que sean 17 años que está cumpliendo el programa, eso ya dice mucho. Es un programa que se ha podido mantener vigente en la radio y no cualquier programa llega a 17 años de estar al aire."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "a095f44c-1b2b-481c-81b7-ad6872c934c6"
+    },
+    {
+      "start_time": 328,
+      "end_time": 349,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Para mí Voces de Mujeres ha pasado tantas situaciones y siguen ahí, siguen bien, se han mantenido. Esa perseverancia es una característica que le da solidez, que la sustenta. "
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "e147d74b-8bb6-4a73-9246-d75b50f53117"
+    },
+    {
+      "start_time": 350,
+      "end_time": 385,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ellas principalmente han sido quienes socializan, divulgan estos derechos desde también una posición feminista. No es solamente de activismo, sino que con una posición clara de que las mujeres debemos de gozar de nuestros derechos. No solo tenerlos descritos, sino también que se vivan. Ellas han servido de comunicadoras, lo que son, socializadoras de nuestros derechos."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "070451e4-b900-4724-bee9-f1f4dd5f2146"
+    },
+    {
+      "start_time": 385,
+      "end_time": 428,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voces de Mujeres ha sido un espacio que ha reivindicado los derechos de nosotras, las mujeres, a tener expresión. Es muy importante, porque ha abierto desde la radio una posibilidad de comunicarnos, de reivindicar nuestras luchas y de reivindicar nuestros derechos. Es el primer espacio en Guatemala de radiodifusión feminista. A partir de ellas se han ido creando otros espacios como, por ejemplo, la Red de Mujeres al Aire. Le señalo esto porque además han sembrado la semilla del radialismo y del radialismo como una lucha por la construcción de la ciudadanía de las mujeres."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "256f554c-6b31-4c88-9174-2ce07f3043fd"
+    },
+    {
+      "start_time": 429,
+      "end_time": 456,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Ellas han hecho contacto con otras organizaciones de mujeres a nivel internacional. Creo que todos los espacios que sirvan para dar a conocer la presencia, la participación, el aporte, la contribución que hacemos las mujeres en la sociedad son muy importantes no solo para esta sociedad guatemalteca, sino para el mundo entero. Evidenciar que las mujeres estamos presentes en todo el quehacer cotidiano de la vida."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "728b5858-4c39-49b9-9910-bb341b9f1e33"
+    },
+    {
+      "start_time": 456,
+      "end_time": 477,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Creo que ha sido valiosísimo. Muchas de nosotras hemos estado en Voces de Mujeres, hemos pasado por allá, hemos sido entrevistadas. Ha sido el instrumento a través del cual hemos dado a conocer nuestros sueños, nuestros proyectos, nuestros posicionamientos y nuestras luchas."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "26df81a7-29f3-4658-933d-c2b4a37b9aa9"
+    },
+    {
+      "start_time": 477,
+      "end_time": 510,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voces de Mujeres nos da información veraz, oportuna, y eso es muy importante. Pienso yo que desde las expresiones es una iniciativa que contribuye a cerrar estas brechas que nos castigan a la sociedad, brechas de inequidad. Asi que siempre estarán presentes y cada vez más fuerte."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "2e8973a0-fb45-4193-a353-cf51cec08985"
+    },
+    {
+      "start_time": 511,
+      "end_time": 533,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "El trabajo que ellas impulsan en pro de los derechos humanos y en pro de los derechos humanos de las mujeres lo hacen fundamentalmente de manera voluntaria. Es un trabajo ad honorem que es complementario a las jornadas laborales que ellas tienen, como normalmente lo hacemos las mujeres, que tenemos dobles y triples jornadas de trabajo."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "f9e1bb1a-8a41-4ba6-b447-e9f46150e8fb"
+    },
+    {
+      "start_time": 533,
+      "end_time": 549,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Han hecho bastante trabajo a nivel nacional. Ha sido un voluntariado de mujeres. Ellas no reciben ningún tipo de sueldo ni de salario por el trabajo que hacen. Es un trabajo personal, con mucha proyección, con mucho compromiso."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "9e3c0dc2-99c5-4cc2-bbaf-1c257532ba7b"
+    },
+    {
+      "start_time": 549,
+      "end_time": 563,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Nosotros creemos que es el momento también de que nosotros, que tenemos acceso a estos espacios desde el Gobierno y desde el Estado, promovamos también el trabajo que hacen las organizaciones desde la sociedad civil, y en particular las mujeres."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "cc839eec-f53e-4be9-962b-4375039d8747"
+    },
+    {
+      "start_time": 563,
+      "end_time": 591,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Voces de Mujeres sigue siendo hasta hoy algo que vale la pena. Le da voz a las mujeres que no tienen voz. Es la voz de las mujeres del campo, la voz de las mujeres de las fábricas. Es la voz de las mujeres que están en sus cuatro paredes todos los días con sus realidades, con su discriminación, sufriendo la violencia, pero también a pesar de todo con la esperanza, con la esperanza de construir un mundo distinto, porque nosotras sabemos que es posible y seguiremos luchando por eso."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "78c5d551-b9a8-4a9d-9f03-5665d28b5eb0"
+    },
+    {
+      "start_time": 591,
+      "end_time": 633,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "| Canción letra: | Callar más, nunca más. Callar más, nunca más. Callar más, nunca más. Por eso es que cuando una habla es con la voz de muchas que callan. Por eso es que cuando  una reacciona lo hace por muchas que aguantan y aguantan. Por eso es que cuando una habla es con la voz de muchas que callan. Por eso es que cuando una reacciona lo hace por muchas que aguantan y aguantan. Por eso es que cuando una habla es con la voz de muchas que callan. Por eso es que cuando una reacciona lo hace por muchas que aguantan y aguantan."
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "dfb42c70-053e-439d-b634-5401aa1b3305"
+    },
+    {
+      "start_time": 633,
+      "end_time": 677,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Por eso es que cuando una habla es con la voz de muchas que callan. Por eso es que cuando una reacciona lo hace por muchas que aguantan y aguantan. ¿Por qué aguantan y aguantan? Aguantan y aguantan y aguantan. ¿Por qué aguantan y aguantan y aguantan y aguantan y aguantan? ¿Por qué aguantan y aguantan....?"
+            }
+          ]
+        }
+      ],
+      "tags": [],
+      "uuid": "301f1c3f-f154-4fce-90f9-3880d11c2044"
+    }
+  ],
   "set": "Transcripción",
   "event_id": "5d9b112e-7fcd-4a33-a7db-803f3781cfeb",
   "source_id": "a965ce43-d217-44c1-b484-f2ac8c8d44b2"
