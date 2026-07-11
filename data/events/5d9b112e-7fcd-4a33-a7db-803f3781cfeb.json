@@ -4,7 +4,11 @@
       "label": "AV File 1",
       "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/hrdi/hrdi_3851deff-71aa-4ac9-8df5-a6b2105ff963/MP4/hrdi_3851deff-71aa-4ac9-8df5-a6b2105ff963.mp4/playlist.m3u8",
       "duration": 677,
-      "file_type": "Video"
+      "file_type": "Video",
+      "set_sort": [
+        "d9ad8551-7075-4d83-a25c-22ad8dbdc015",
+        "d81081f8-2c11-41ea-a3ee-10a5a9c2eac6"
+      ]
     }
   },
   "auto_generate_web_page": true,
@@ -48,8 +52,12 @@
   ],
   "created_at": "2026-07-11T21:05:06.989Z",
   "created_by": "celeste-camacho",
-  "label": "V",
-  "updated_at": "2026-07-11T21:05:06.989Z",
+  "label": "Voces de Mujeres: Un Espacio para la Expresión",
+  "updated_at": "2026-07-11T21:07:06.221Z",
   "updated_by": "celeste-camacho",
-  "rights_statement": "h"
+  "rights_statement": "h",
+  "av_file_order": [
+    "a965ce43-d217-44c1-b484-f2ac8c8d44b2"
+  ],
+  "citation": "Voces de Mujeres Collection; LLILAS Benson"
 }
