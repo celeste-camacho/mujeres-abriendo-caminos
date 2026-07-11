@@ -1,0 +1,55 @@
+{
+  "audiovisual_files": {
+    "a965ce43-d217-44c1-b484-f2ac8c8d44b2": {
+      "label": "AV File 1",
+      "file_url": "https://streaming.lib.utexas.edu/iiif/_definst_/iiif/mp4:DAMS/hrdi/hrdi_3851deff-71aa-4ac9-8df5-a6b2105ff963/MP4/hrdi_3851deff-71aa-4ac9-8df5-a6b2105ff963.mp4/playlist.m3u8",
+      "duration": 677,
+      "file_type": "Video"
+    }
+  },
+  "auto_generate_web_page": true,
+  "description": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Voces de Mujeres: Un Espacio para la Expresión",
+          "bold": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nEste documental corto se trata de la historia y la influencia de la radio colectiva feminista guatemalteca, Voces de Mujeres, a lo largo de sus dieciocho años. Tiene entrevistas con varios activistas quienes luchan por la justicia social, los derechos humanos, y los derechos de la mujer. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "| This short documentary tells the history of Voces de Mujeres, a Guatemalan feminist radio collective, and the influence that it has had over its eighteen years of existence. The documentary contains interviews with various social justice, human rights, and women's human rights activists."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nVoces de Mujeres (Interviewee), Serrano, Samantha (Videographer), Gramajo, Rosaura (Interviewee), Hernández, Boris (Interviewee), Del Valle, Ruth (Interviewee), Morales, Ximena (Interviewee), Cruz, Norma (Interviewee), Galicia, Herbyn (Interviewee), Monzón, Oscar (Interviewee), Taracena, Dora Amalia (Interviewee), López, Carmen (Interviewee), and Barrios, Walda (Interviewee)\n\n\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "created_at": "2026-07-11T21:05:06.989Z",
+  "created_by": "celeste-camacho",
+  "label": "V",
+  "updated_at": "2026-07-11T21:05:06.989Z",
+  "updated_by": "celeste-camacho",
+  "rights_statement": "h"
+}
