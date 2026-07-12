@@ -35,11 +35,12 @@
   "created_by": "celeste-camacho",
   "title": "Anuncio: Mujeres Abriendo Caminos ",
   "slug": "anuncio-mujeres-abriendo-caminos",
-  "updated_at": "2026-07-12T23:57:54.325Z",
+  "updated_at": "2026-07-12T23:58:03.644Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "b549b88f-f07c-4871-95a3-a4c0db18afe3"
-  }
+  },
+  "parent": "0ea50fb9-de11-4143-a389-e72fc49e7759"
 }
