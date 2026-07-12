@@ -648,10 +648,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Estado"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Sociedad civil"
         },
         {
@@ -909,7 +905,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-12T23:51:46.866Z",
+    "updated_at": "2026-07-12T23:52:05.460Z",
     "generate_pages_site": true
   },
   "annotations": {},
