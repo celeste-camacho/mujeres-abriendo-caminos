@@ -648,10 +648,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Equidad"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Justicia epistémica"
         },
         {
@@ -921,7 +917,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-12T23:49:23.840Z",
+    "updated_at": "2026-07-12T23:49:42.316Z",
     "generate_pages_site": true
   },
   "annotations": {},
