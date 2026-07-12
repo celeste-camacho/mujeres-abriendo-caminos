@@ -620,10 +620,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Cuatro pueblos"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Pobreza"
         },
         {
@@ -981,7 +977,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-12T23:35:28.360Z",
+    "updated_at": "2026-07-12T23:35:42.260Z",
     "generate_pages_site": true
   },
   "annotations": {},
