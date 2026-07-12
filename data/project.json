@@ -648,10 +648,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Visibilidad"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Oscar Monzón"
         },
         {
@@ -945,7 +941,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-12T23:45:06.813Z",
+    "updated_at": "2026-07-12T23:45:39.971Z",
     "generate_pages_site": true
   },
   "annotations": {},
