@@ -35,11 +35,12 @@
   "created_by": "celeste-camacho",
   "title": "Voces de Mujeres: Un Espacio para la Expresión",
   "slug": "voces-de-mujeres-un-espacio-para-la-expresio",
-  "updated_at": "2026-07-12T23:58:12.352Z",
+  "updated_at": "2026-07-12T23:58:18.146Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "5d9b112e-7fcd-4a33-a7db-803f3781cfeb"
-  }
+  },
+  "parent": "0ea50fb9-de11-4143-a389-e72fc49e7759"
 }
