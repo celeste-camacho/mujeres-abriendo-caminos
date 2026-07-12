@@ -648,10 +648,6 @@
         },
         {
           "category": "_uncategorized_",
-          "tag": "Sociedad civil"
-        },
-        {
-          "category": "_uncategorized_",
           "tag": "Voz"
         },
         {
@@ -905,7 +901,7 @@
       ]
     },
     "created_at": "2026-04-23T14:16:34.148Z",
-    "updated_at": "2026-07-12T23:52:05.460Z",
+    "updated_at": "2026-07-12T23:52:17.043Z",
     "generate_pages_site": true
   },
   "annotations": {},
