@@ -35,11 +35,12 @@
   "created_by": "celeste-camacho",
   "title": "Debate sobre el papel de las mujeres en el siglo 19",
   "slug": "debate-sobre-el-papel-de-las-mujeres-en-el-si",
-  "updated_at": "2026-07-12T23:56:37.495Z",
+  "updated_at": "2026-07-12T23:56:59.945Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
     "type": "event",
     "type_id": "d2f9ca2b-ef13-431d-af77-a0b14c10b37f"
-  }
+  },
+  "parent": "0ea50fb9-de11-4143-a389-e72fc49e7759"
 }
