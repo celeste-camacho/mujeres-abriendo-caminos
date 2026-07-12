@@ -1,13 +1,44 @@
 {
-  "content": [],
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "event",
+      "uuid": "b549b88f-f07c-4871-95a3-a4c0db18afe3",
+      "includes": [
+        "media",
+        "annotations",
+        "description"
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    }
+  ],
   "created_at": "2026-07-09T14:50:39.762Z",
   "created_by": "celeste-camacho",
   "title": "Anuncio: Mujeres Abriendo Caminos ",
   "slug": "anuncio-mujeres-abriendo-caminos",
-  "updated_at": "2026-07-09T14:50:39.762Z",
+  "updated_at": "2026-07-12T23:57:54.325Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
-    "enabled": true,
+    "enabled": false,
     "type": "event",
     "type_id": "b549b88f-f07c-4871-95a3-a4c0db18afe3"
   }
