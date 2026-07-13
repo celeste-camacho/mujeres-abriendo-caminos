@@ -31,22 +31,10 @@
       ]
     },
     {
-      "type": "image",
-      "url": "https://github.com/celeste-camacho/voces-isabel/blob/main/assets/Voces%20de%20Mujeres_1.png?raw=true",
-      "caption": "Voces de Mujeres, Isabel ",
-      "children": [
-        {
-          "text": ""
-        }
-      ],
-      "scale": 30
-    },
-    {
       "type": "paragraph",
       "children": [
         {
-          "text": "",
-          "code": true
+          "text": ""
         }
       ]
     },
@@ -62,36 +50,11 @@
     {
       "type": "grid",
       "layout": [
-        3,
-        3
+        6
       ],
       "children": [
         {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": "\n<div class=\"flourish-embed flourish-bubble-chart\" data-src=\"visualisation/29585503\"><script src=\"https://public.flourish.studio/resources/embed.js\"></script><noscript><img src=\"https://public.flourish.studio/visualisation/29585503/thumbnail\" width=\"100%\" alt=\"bubble-chart visualization\" /></noscript></div>\n\n"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "column",
-          "children": [
-            {
-              "type": "paragraph",
-              "children": [
-                {
-                  "text": ""
-                }
-              ]
-            }
-          ],
-          "right": 10
+          "text": ""
         }
       ]
     },
@@ -127,7 +90,7 @@
   "created_by": "celeste-camacho",
   "title": "Análisis del 10 aniversario de la firma de los acuerdos de paz",
   "slug": "analisis-del-10-aniversario-de-la-firma-de-lo",
-  "updated_at": "2026-07-03T17:59:48.381Z",
+  "updated_at": "2026-07-13T03:41:31.506Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
