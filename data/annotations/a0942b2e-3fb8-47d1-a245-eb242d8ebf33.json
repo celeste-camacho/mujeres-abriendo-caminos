@@ -4780,39 +4780,6 @@
       "uuid": "9a302974-0df2-408d-a6c0-e8fdbaa67608"
     },
     {
-      "start_time": 1747,
-      "end_time": 1761,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Saber situado",
-          "category": "Pedagogico-Decolonial"
-        },
-        {
-          "category": "Pedagogico-Decolonial",
-          "tag": "Educación"
-        },
-        {
-          "tag": "Comunidad",
-          "category": "Pedagogico-Decolonial"
-        },
-        {
-          "tag": "Aprendizaje colectivo",
-          "category": "Pedagogico-Decolonial"
-        }
-      ],
-      "uuid": "6beb7c6d-7192-47dd-b232-a44bed11f457"
-    },
-    {
       "start_time": 1764,
       "end_time": 1780,
       "annotation": [
