@@ -1,1 +1,232 @@
-{"annotations":[{"start_time":0,"end_time":3,"annotation":[{"type":"paragraph","children":[{"text":"\n[música de fondo]"}]},{"type":"paragraph","children":[{"text":"\n\n"}]}],"tags":[{"tag":"Tambores","category":"Estetico-Sonoro"},{"category":"Estetico-Sonoro","tag":"Música"}],"uuid":"ebdf041e-ebc9-45a2-bfc3-9e7dc26b7368"},{"start_time":3,"end_time":10,"annotation":[{"type":"paragraph","children":[{"text":"\nAmas de casa, estudiantes, trabajadoras, maestras, empresarias, intelectuales, mujeres todas."}]},{"type":"paragraph","children":[{"text":"\n\n"}]}],"tags":[{"tag":"Diversidad cultural","category":"Cuerpo y Territorio"},{"category":"Cuerpo y Territorio","tag":"Mujeres indígenas"},{"tag":"Mujeres rurales","category":"Cuerpo y Territorio"},{"tag":"Cuerpo","category":"Cuerpo y Territorio"},{"tag":"Territorio","category":"Cuerpo y Territorio"},{"tag":"Comunidad","category":"Pedagogico-Decolonial"}],"uuid":"b45fa271-97d6-42fb-bd69-7a1bb7f55a44"},{"start_time":10,"end_time":25,"annotation":[{"type":"paragraph","children":[{"text":"Te invitamos al Congreso de Mujeres. Comparte con Ana Silvia Monzón. Comunicadora, socióloga, escritora, madre y activista guatemalteca quien hablará sobre temas relacionados con las mujeres. Migración, organización, violencia y derechos humanos."}]},{"type":"paragraph","children":[{"text":"\n\n"}]}],"tags":[{"category":"Actores y referentes","tag":"Ana Silvia Monzón"},{"category":"Pedagogico-Decolonial","tag":"Educación"},{"tag":"Aprendizaje colectivo","category":"Pedagogico-Decolonial"},{"tag":"Derechos","category":"Politica y Resistencia"},{"category":"Politica y Resistencia","tag":"Organización"},{"category":"Politica y Resistencia","tag":"Articulación"},{"category":"Politica y Resistencia","tag":"Participación"},{"category":"Politica y Resistencia","tag":"Resistencia"}],"uuid":"2cc93124-ee9d-49ff-a5d7-cd08f968e758"},{"start_time":25,"end_time":48,"annotation":[{"type":"paragraph","children":[{"text":"Día 27 de enero del 2007. Lugar, Mercado La Paloma, salón de conferencias, 3655 South Grand Avenue, Los Ángeles, California. De 4:00 PM a 8:00 PM. Entrada gratuita. Más información al teléfono 626-827-3199. Comparte con nosotras y participa."}]},{"type":"paragraph","children":[{"text":"\n\n"}]}],"tags":[{"category":"Actores y referentes","tag":"Conferencia Mundial de las Mujeres"},{"tag":"Tambores","category":"Estetico-Sonoro"},{"category":"Estetico-Sonoro","tag":"Entonación"},{"category":"Estetico-Sonoro","tag":"Música"},{"category":"Politica y Resistencia","tag":"Participación"},{"category":"Politica y Resistencia","tag":"Resistencia"},{"category":"Politica y Resistencia","tag":"Política"}],"uuid":"8f4e2b0a-8c98-46e1-b5b6-362c1d5cc8cf"},{"start_time":48,"end_time":56,"annotation":[{"type":"paragraph","children":[{"text":"[música de fondo]"}]},{"type":"paragraph","children":[{"text":"\n\n"}]}],"tags":[{"tag":"Tambores","category":"Estetico-Sonoro"},{"category":"Estetico-Sonoro","tag":"Música"}],"uuid":"5e822c55-0f5c-46a2-b0b2-e50d339e766b"}],"set":"Anuncio: Mujeres Abriendo Caminos ","event_id":"b549b88f-f07c-4871-95a3-a4c0db18afe3","source_id":"f547321b-a4f1-4413-8a47-e2a56decd814"}
+{
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 3,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n[música de fondo]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tambores",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
+        }
+      ],
+      "uuid": "ebdf041e-ebc9-45a2-bfc3-9e7dc26b7368"
+    },
+    {
+      "start_time": 3,
+      "end_time": 10,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\nAmas de casa, estudiantes, trabajadoras, maestras, empresarias, intelectuales, mujeres todas."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Diversidad cultural",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "category": "Cuerpo y Territorio",
+          "tag": "Mujeres indígenas"
+        },
+        {
+          "tag": "Mujeres rurales",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Cuerpo",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Territorio",
+          "category": "Cuerpo y Territorio"
+        },
+        {
+          "tag": "Comunidad",
+          "category": "Pedagogico-Decolonial"
+        }
+      ],
+      "uuid": "b45fa271-97d6-42fb-bd69-7a1bb7f55a44"
+    },
+    {
+      "start_time": 10,
+      "end_time": 25,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Te invitamos al Congreso de Mujeres. Comparte con Ana Silvia Monzón. Comunicadora, socióloga, escritora, madre y activista guatemalteca quien hablará sobre temas relacionados con las mujeres. Migración, organización, violencia y derechos humanos."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Actores y referentes",
+          "tag": "Ana Silvia Monzón"
+        },
+        {
+          "category": "Pedagogico-Decolonial",
+          "tag": "Educación"
+        },
+        {
+          "tag": "Aprendizaje colectivo",
+          "category": "Pedagogico-Decolonial"
+        },
+        {
+          "tag": "Derechos",
+          "category": "Politica y Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Organización"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Articulación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        }
+      ],
+      "uuid": "2cc93124-ee9d-49ff-a5d7-cd08f968e758"
+    },
+    {
+      "start_time": 25,
+      "end_time": 48,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Día 27 de enero del 2007. Lugar, Mercado La Paloma, salón de conferencias, 3655 South Grand Avenue, Los Ángeles, California. De 4:00 PM a 8:00 PM. Entrada gratuita. Más información al teléfono 626-827-3199. Comparte con nosotras y participa."
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "Actores y referentes",
+          "tag": "Conferencia Mundial de las Mujeres"
+        },
+        {
+          "tag": "Tambores",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Entonación"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Participación"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Resistencia"
+        },
+        {
+          "category": "Politica y Resistencia",
+          "tag": "Política"
+        }
+      ],
+      "uuid": "8f4e2b0a-8c98-46e1-b5b6-362c1d5cc8cf"
+    },
+    {
+      "start_time": 48,
+      "end_time": 56,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "[música de fondo]"
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Tambores",
+          "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
+        }
+      ],
+      "uuid": "5e822c55-0f5c-46a2-b0b2-e50d339e766b"
+    }
+  ],
+  "set": "Transcripción",
+  "event_id": "b549b88f-f07c-4871-95a3-a4c0db18afe3",
+  "source_id": "f547321b-a4f1-4413-8a47-e2a56decd814"
+}
