@@ -4751,35 +4751,6 @@
       "uuid": "2236acc3-4ead-49b7-9f33-1eb999737b44"
     },
     {
-      "start_time": 1722,
-      "end_time": 1724,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Pausa",
-          "category": "Estetico-Sonoro"
-        },
-        {
-          "tag": "Tono",
-          "category": "Estetico-Sonoro"
-        },
-        {
-          "category": "Estetico-Sonoro",
-          "tag": "Entonación"
-        }
-      ],
-      "uuid": "11267153-2426-4b0a-af15-2f23ee93c1aa"
-    },
-    {
       "start_time": 1724,
       "end_time": 1726,
       "annotation": [
