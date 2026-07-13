@@ -21,7 +21,8 @@
         },
         {
           "text": "Anuncio: Mujeres Abriendo Caminos - Origen",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-one"
         },
         {
           "text": "\n\nEsta grabación fue creada por la colectiva de radio, Mujeres Abriendo Caminos, para transmisión en KPFK 90.7, una radio comunitaria en Los Angeles, California. Anuncia el congreso de mujeres de enero 2007 donde apareció Ana Silvia Monzón - socióloga, activista, y locutora del programa de radio guatemalteco, Voces de Mujeres. "
@@ -40,7 +41,7 @@
   "created_at": "2026-07-09T14:50:39.013Z",
   "created_by": "celeste-camacho",
   "label": "Anuncio: Mujeres Abriendo Caminos ",
-  "updated_at": "2026-07-09T14:53:56.182Z",
+  "updated_at": "2026-07-13T06:38:53.301Z",
   "updated_by": "celeste-camacho",
   "rights_statement": "h",
   "av_file_order": [
