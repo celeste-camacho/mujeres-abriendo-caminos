@@ -4751,31 +4751,6 @@
       "uuid": "2236acc3-4ead-49b7-9f33-1eb999737b44"
     },
     {
-      "start_time": 1715,
-      "end_time": 1722,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Tono",
-          "category": "Estetico-Sonoro"
-        },
-        {
-          "category": "Estetico-Sonoro",
-          "tag": "Entonación"
-        }
-      ],
-      "uuid": "e34c9c02-703f-476b-a1ed-35585ab005be"
-    },
-    {
       "start_time": 1722,
       "end_time": 1724,
       "annotation": [
