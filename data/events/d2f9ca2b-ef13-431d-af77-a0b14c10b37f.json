@@ -17,7 +17,8 @@
         },
         {
           "text": "Debate sobre el papel de las mujeres en el siglo 19",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-one"
         },
         {
           "text": "\n\nEsta grabación trata sobre una conversación acerca de la relación entre la historia desde el siglo diecinueve, el rol de la mujer, los acuerdos de paz y la historia actual. Se incluyen varios recuentos situando el rol de la mujer en el siglo diecinueve, segmentos sobre el derecho de la mujer pobre e indígena a la educación, a la democracia y a denunciar la violencia, al igual que diferentes canciones y reconocimientos a la lucha de la mujer. "
@@ -28,7 +29,19 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "| This recording is about a conversation on the relationship between history since the nineteenth century, the role of women, the peace accords and current history. It includes several accounts discussing women's roles in the nineteenth century, segments on the rights of poor and indigenous women to education, to democracy and to denounce violence, as well as different songs and the recognition of women's struggles. \n\n"
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "This recording is about a conversation on the relationship between history since the nineteenth century, the role of women, the peace accords and current history. It includes several accounts discussing women's roles in the nineteenth century, segments on the rights of poor and indigenous women to education, to democracy and to denounce violence, as well as different songs and the recognition of women's struggles. ",
+          "italic": true
+        },
+        {
+          "text": "\n\n"
         }
       ]
     }
@@ -36,7 +49,7 @@
   "created_at": "2026-07-09T13:46:21.075Z",
   "created_by": "celeste-camacho",
   "label": "Debate sobre el papel de las mujeres en el siglo 19",
-  "updated_at": "2026-07-09T14:31:40.814Z",
+  "updated_at": "2026-07-13T06:41:36.604Z",
   "updated_by": "celeste-camacho",
   "rights_statement": "h",
   "av_file_order": [
