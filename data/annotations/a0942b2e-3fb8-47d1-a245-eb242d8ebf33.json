@@ -4807,39 +4807,6 @@
         }
       ],
       "uuid": "6785a5c2-c68c-46a1-a515-907ebc8c2225"
-    },
-    {
-      "start_time": 1780,
-      "end_time": 1787,
-      "annotation": [
-        {
-          "type": "paragraph",
-          "children": [
-            {
-              "text": "undefined"
-            }
-          ]
-        }
-      ],
-      "tags": [
-        {
-          "tag": "Saber situado",
-          "category": "Pedagogico-Decolonial"
-        },
-        {
-          "category": "Pedagogico-Decolonial",
-          "tag": "Educación"
-        },
-        {
-          "tag": "Comunidad",
-          "category": "Pedagogico-Decolonial"
-        },
-        {
-          "tag": "Aprendizaje colectivo",
-          "category": "Pedagogico-Decolonial"
-        }
-      ],
-      "uuid": "d655e72e-fcc4-4a5b-911f-56f05f067b48"
     }
   ],
   "set": "Mujeres Abriendo Caminos",
