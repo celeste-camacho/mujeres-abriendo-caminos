@@ -21,7 +21,8 @@
         },
         {
           "text": "Voces de Mujeres: Un Espacio para la Expresión",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-one"
         }
       ]
     },
@@ -53,7 +54,7 @@
   "created_at": "2026-07-11T21:05:06.989Z",
   "created_by": "celeste-camacho",
   "label": "Voces de Mujeres: Un Espacio para la Expresión",
-  "updated_at": "2026-07-11T21:07:06.221Z",
+  "updated_at": "2026-07-13T06:36:52.734Z",
   "updated_by": "celeste-camacho",
   "rights_statement": "h",
   "av_file_order": [
