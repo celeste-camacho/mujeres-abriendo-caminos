@@ -16,7 +16,8 @@
           "bold": true,
           "text": "LLILAS BENSON"
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -39,7 +40,8 @@
         {
           "text": ", producidos entre 2006 y 2010. Los materiales exploran temáticas de género, memoria y participación política en Centroamérica: desde el análisis del décimo aniversario de los acuerdos de paz en Guatemala hasta debates sobre el rol histórico de las mujeres y las condiciones de trabajo de mujeres migrantes e indígenas. La colección está resguardada en el Human Rights Documentation Initiative (HRDI) de LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, y es parte del acervo trabajado en el marco del Digital Scholarship Research Fellowship (LLILAS Benson, 2026)."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -96,7 +98,8 @@
         {
           "text": "— y dialogan con un marco teórico que integra los conceptos de archivo vivo y repertorio (Diana Taylor), pedagogía de la concientización (Paulo Freire), pedagogías decoloniales y re-existencia (Catherine Walsh), articulación (Donna Haraway), pedagogías de la crueldad (Rita Segato), e imaginación material (Andrea Soto Calderón). Cada segmento combina transcripción y análisis crítico para visibilizar algunos de los modos en los que la radio comunitaria opera como un espacio de resistencia, memoria y agencia femenina frente a las matrices colonial, patriarcal y neoliberal de poder."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -104,7 +107,8 @@
         {
           "text": "En el marco de este proyecto, se ha trabajado con los siguientes materiales: "
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "numbered-list",
@@ -122,7 +126,8 @@
                 {
                   "text": " — Programa radiofónico que recorre la historia de Guatemala desde 1954 hasta la firma de los Acuerdos de Paz en 1996, narrando la represión, la lucha por la tierra, el movimiento de derechos humanos, y el papel de las mujeres en la construcción de la paz y la democracia."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -139,7 +144,8 @@
                 {
                   "text": " — Promocional del Congreso de Mujeres celebrado el 27 de enero de 2007 en Los Ángeles, California, con Ana Silvia Monzón. Invitación a la comunidad migrante centroamericana a participar en un espacio de diálogo sobre migración, organización, violencia y derechos humanos."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -156,7 +162,8 @@
                 {
                   "text": " — Debate que sitúa la participación política de las mujeres guatemaltecas en una genealogía que se remonta al siglo XIX, examinando el acceso diferenciado a la educación, las ideas revolucionarias de libertad e igualdad, y las luchas cotidianas que hicieron posible la voz y el voto de las mujeres."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -173,7 +180,8 @@
                 {
                   "text": " — Corto documental que conmemora los 17 años del programa radiofónico Voces de Mujeres en Guatemala. Reúne testimonios de activistas, académicas y comunicadoras sobre el impacto de esta iniciativa feminista de comunicación alternativa en la posguerra, destacando su rol en la ruptura del silencio y la construcción de ciudadanía."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         },
@@ -190,7 +198,8 @@
                 {
                   "text": " — Programa radiofónico transmitido por KPFK 90.7 FM Los Ángeles el 10 de enero de 2007, donde Ana Silvia Monzón y Azalea Ryckman conversan sobre los derechos de las mujeres, la migración centroamericana, el libro \"Las Viajeras Invisibles\", y el trabajo del colectivo Voces de Mujeres en Guatemala, en el marco del segmento \"Caminando por Mesoamérica\"."
                 }
-              ]
+              ],
+              "align": "justify"
             }
           ]
         }
@@ -225,7 +234,8 @@
         {
           "text": ", produced between 2006 and 2010. The materials explore themes of gender, memory, and political participation in Central America: from an analysis of the tenth anniversary of the Guatemalan peace accords to debates on the historical role of women and the working conditions of migrant and indigenous women. The collection is held at the Human Rights Documentation Initiative (HRDI) of LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, and is part of the archival work developed within the Digital Scholarship Research Fellowship (LLILAS Benson, 2026)."
         }
-      ]
+      ],
+      "align": "justify"
     },
     {
       "type": "paragraph",
@@ -282,13 +292,32 @@
         {
           "text": "— and engage in dialogue with a theoretical framework that integrates the concepts of living archive and repertoire (Diana Taylor), pedagogy of conscientization (Paulo Freire), decolonial pedagogies and re-existence (Catherine Walsh), articulation (Donna Haraway), pedagogies of cruelty (Rita Segato), and material imagination (Andrea Soto Calderón). Each segment combines transcription and critical analysis to make visible some of the ways in which community radio operates as a space of resistance, memory, and feminine agency in the face of colonial, patriarchal, and neoliberal matrices of power."
         }
+      ],
+      "align": "justify"
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": ""
+        }
       ]
     }
   ],
   "created_at": "2026-04-23T14:16:34.169Z",
   "created_by": "celeste-camacho",
   "title": "Voces de Mujeres Collection ",
-  "updated_at": "2026-07-13T04:13:36.207Z",
+  "updated_at": "2026-07-13T04:16:55.271Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
