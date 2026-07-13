@@ -2404,6 +2404,14 @@
         {
           "tag": "Voz colectiva",
           "category": "Estetico-Sonoro"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Música"
+        },
+        {
+          "category": "Estetico-Sonoro",
+          "tag": "Canción"
         }
       ],
       "uuid": "cc6ea7e5-b237-4ea1-b7aa-8c32f7f5d77a"
