@@ -5,7 +5,8 @@
       "children": [
         {
           "text": "Colección Voces de Mujeres",
-          "bold": true
+          "bold": true,
+          "textSize": "heading-one"
         }
       ]
     },
@@ -14,7 +15,8 @@
       "children": [
         {
           "bold": true,
-          "text": "LLILAS BENSON"
+          "text": "LLILAS BENSON",
+          "textSize": "heading-one"
         }
       ],
       "align": "justify"
@@ -317,7 +319,7 @@
   "created_at": "2026-04-23T14:16:34.169Z",
   "created_by": "celeste-camacho",
   "title": "Voces de Mujeres Collection ",
-  "updated_at": "2026-07-13T04:16:55.271Z",
+  "updated_at": "2026-07-13T06:33:57.018Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
