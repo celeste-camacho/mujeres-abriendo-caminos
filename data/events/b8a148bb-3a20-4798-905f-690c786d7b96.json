@@ -21,15 +21,15 @@
       "type": "paragraph",
       "children": [
         {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
+          "text": "\n"
+        },
         {
-          "text": "Programa radial"
+          "text": "Centroamérica sin censura: Mujeres Abriendo Caminos",
+          "bold": true,
+          "textSize": "heading-one"
+        },
+        {
+          "text": "\nPrograma radial"
         },
         {
           "text": " Centroamérica sin censura: Mujeres Abriendo Caminos",
@@ -62,31 +62,42 @@
         },
         {
           "text": "Centroamérica sin censura: Mujeres Abriendo Caminos ",
-          "bold": true
+          "bold": true,
+          "italic": true
         },
         {
-          "text": "radio program on "
+          "text": "radio program on ",
+          "italic": true
         },
         {
           "text": "KPFK 90.7 FM Los Angeles and 98.7 FM Santa Barbara",
-          "bold": true
+          "bold": true,
+          "italic": true
         },
         {
-          "text": ", segment where the "
-        },
-        {
-          "text": "Voces de Mujeres",
-          "bold": true
-        },
-        {
-          "text": " experience is shared. "
+          "text": ", segment where the ",
+          "italic": true
         },
         {
           "text": "Voces de Mujeres",
-          "bold": true
+          "bold": true,
+          "italic": true
         },
         {
-          "text": " explores the political and cultural articulation of Central American women as subjects of social transformation. Through dialogue on migration, memory, and organization, it makes visible the strategies of resistance against the structural violences of neoliberalism, patriarchy, and forced displacement. Culture and art emerge as pedagogical tools of conscientization and re-existence, while the experiences of migrant women — those who stay, those who transit, those who arrive — configure a living archive of struggles, agency, and situated knowledge that interpellates the present of the region.\n\n\n\n"
+          "text": " experience is shared. ",
+          "italic": true
+        },
+        {
+          "text": "Voces de Mujeres",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": " explores the political and cultural articulation of Central American women as subjects of social transformation. Through dialogue on migration, memory, and organization, it makes visible the strategies of resistance against the structural violences of neoliberalism, patriarchy, and forced displacement. Culture and art emerge as pedagogical tools of conscientization and re-existence, while the experiences of migrant women — those who stay, those who transit, those who arrive — configure a living archive of struggles, agency, and situated knowledge that interpellates the present of the region.",
+          "italic": true
+        },
+        {
+          "text": "\n\n\n\n"
         }
       ]
     }
@@ -94,7 +105,7 @@
   "created_at": "2026-05-14T07:55:22.244Z",
   "created_by": "celeste-camacho",
   "label": "Centroamérica sin Censura: Mujeres Abriendo Caminos",
-  "updated_at": "2026-06-28T16:01:04.053Z",
+  "updated_at": "2026-07-13T06:40:30.263Z",
   "updated_by": "celeste-camacho",
   "rights_statement": "h",
   "av_file_order": [
