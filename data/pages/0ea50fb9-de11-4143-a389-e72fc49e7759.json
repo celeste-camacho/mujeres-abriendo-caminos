@@ -36,6 +36,36 @@
     },
     {
       "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "italic": true,
+          "bold": true,
+          "textSize": "heading-three",
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "image",
+      "url": "https://github.com/celeste-camacho/voces-isabel/blob/main/assets/guarda_voces_de_mujeres.jpg",
+      "caption": "collage digital by celecamacha",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": "Esta colección audiovisual reúne registros sonoros y visuales del proyecto "
@@ -320,12 +350,31 @@
           "text": ""
         }
       ]
+    },
+    {
+      "type": "grid",
+      "layout": [
+        6
+      ],
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
     }
   ],
   "created_at": "2026-04-23T14:16:34.169Z",
   "created_by": "celeste-camacho",
   "title": "Colección Voces de Mujeres  ",
-  "updated_at": "2026-07-24T16:34:48.047Z",
+  "updated_at": "2026-07-24T16:37:08.713Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
