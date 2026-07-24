@@ -14,17 +14,22 @@
       "type": "paragraph",
       "children": [
         {
-          "bold": true,
           "text": "LLILAS BENSON",
-          "textSize": "heading-one"
+          "italic": true,
+          "bold": true,
+          "textSize": "heading-three"
         }
       ],
       "align": "justify"
     },
     {
       "type": "paragraph",
+      "align": "justify",
       "children": [
         {
+          "italic": true,
+          "bold": true,
+          "textSize": "heading-three",
           "text": ""
         }
       ]
@@ -37,7 +42,8 @@
         },
         {
           "text": "Voces de Mujeres",
-          "bold": true
+          "bold": true,
+          "italic": true
         },
         {
           "text": ", producidos entre 2006 y 2010. Los materiales exploran temáticas de género, memoria y participación política en Centroamérica: desde el análisis del décimo aniversario de los acuerdos de paz en Guatemala hasta debates sobre el rol histórico de las mujeres y las condiciones de trabajo de mujeres migrantes e indígenas. La colección está resguardada en el Human Rights Documentation Initiative (HRDI) de LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, y es parte del acervo trabajado en el marco del Digital Scholarship Research Fellowship (LLILAS Benson, 2026)."
@@ -53,7 +59,7 @@
         },
         {
           "text": "seis capas temáticas",
-          "bold": true
+          "italic": true
         },
         {
           "text": " —"
@@ -98,7 +104,7 @@
           "bold": true
         },
         {
-          "text": "— y dialogan con un marco teórico que integra los conceptos de archivo vivo y repertorio (Diana Taylor), pedagogía de la concientización (Paulo Freire), pedagogías decoloniales y re-existencia (Catherine Walsh), articulación (Donna Haraway), pedagogías de la crueldad (Rita Segato), e imaginación material (Andrea Soto Calderón). Cada segmento combina transcripción y análisis crítico para visibilizar algunos de los modos en los que la radio comunitaria opera como un espacio de resistencia, memoria y agencia femenina frente a las matrices colonial, patriarcal y neoliberal de poder."
+          "text": "— y dialogan con un marco teórico que integra los conceptos de archivo vivo y repertorio (Taylor, 2015; Voegelin y Barney, 2018), pedagogías decoloniales y re-existencias (Freire, 1992; hooks, 2000; Walsh, 2013), cosmopolíticas y articulación (Haraway, 2022; Stangers, 2010), pedagogías de la crueldad (Segato, 2018), imaginación material (Soto Calderón, 2022) y tecnoceno (Costa, 2021). Cada segmento combina transcripción y análisis crítico para visibilizar algunos de los modos en los que la radio comunitaria opera como un espacio de resistencia, memoria y agencia feminista frente a las matrices colonial, patriarcal y neoliberal de poder."
         }
       ],
       "align": "justify"
@@ -292,7 +298,7 @@
           "bold": true
         },
         {
-          "text": "— and engage in dialogue with a theoretical framework that integrates the concepts of living archive and repertoire (Diana Taylor), pedagogy of conscientization (Paulo Freire), decolonial pedagogies and re-existence (Catherine Walsh), articulation (Donna Haraway), pedagogies of cruelty (Rita Segato), and material imagination (Andrea Soto Calderón). Each segment combines transcription and critical analysis to make visible some of the ways in which community radio operates as a space of resistance, memory, and feminine agency in the face of colonial, patriarchal, and neoliberal matrices of power."
+          "text": "— and engage in dialogue with a theoretical framework that integrates the concepts of living archive and repertoire (Diana Taylor), pedagogy of conscientization (Paulo Freire), decolonial pedagogies and re-existence (Catherine Walsh), articulation (Donna Haraway), pedagogies of cruelty (Rita Segato), and material imagination (Andrea Soto Calderón). Each segment combines transcription and critical analysis to make visible some of the ways in which community radio operates as a space of resistance, memory, and feminist agency in the face of colonial, patriarchal, and neoliberal matrices of power."
         }
       ],
       "align": "justify"
@@ -318,12 +324,12 @@
   ],
   "created_at": "2026-04-23T14:16:34.169Z",
   "created_by": "celeste-camacho",
-  "title": "Voces de Mujeres Collection ",
-  "updated_at": "2026-07-13T06:33:57.018Z",
+  "title": "Colección Voces de Mujeres  ",
+  "updated_at": "2026-07-24T16:34:48.047Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
     "type": "home"
   },
-  "slug": "voces-de-mujeres-collection"
+  "slug": "coleccion-voces-de-mujeres"
 }
