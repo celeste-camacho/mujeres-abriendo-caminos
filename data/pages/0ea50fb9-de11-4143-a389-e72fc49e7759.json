@@ -35,37 +35,37 @@
       ]
     },
     {
+      "type": "image",
+      "url": "https://github.com/celeste-camacho/voces-isabel/blob/main/assets/guarda_voces_de_mujeres.jpg?raw=true",
+      "caption": "",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Digital collage by @celecamacha___",
+          "textSize": "small"
+        }
+      ],
+      "align": "right"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ],
+      "align": "justify"
+    },
+    {
       "type": "paragraph",
       "align": "justify",
-      "children": [
-        {
-          "italic": true,
-          "bold": true,
-          "textSize": "heading-three",
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "image",
-      "url": "https://github.com/celeste-camacho/voces-isabel/blob/main/assets/guarda_voces_de_mujeres.jpg",
-      "caption": "collage digital by celecamacha",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": ""
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
       "children": [
         {
           "text": "Esta colección audiovisual reúne registros sonoros y visuales del proyecto "
@@ -78,8 +78,7 @@
         {
           "text": ", producidos entre 2006 y 2010. Los materiales exploran temáticas de género, memoria y participación política en Centroamérica: desde el análisis del décimo aniversario de los acuerdos de paz en Guatemala hasta debates sobre el rol histórico de las mujeres y las condiciones de trabajo de mujeres migrantes e indígenas. La colección está resguardada en el Human Rights Documentation Initiative (HRDI) de LLILAS Benson Latin American Studies and Collections, University of Texas at Austin, y es parte del acervo trabajado en el marco del Digital Scholarship Research Fellowship (LLILAS Benson, 2026)."
         }
-      ],
-      "align": "justify"
+      ]
     },
     {
       "type": "paragraph",
@@ -328,7 +327,7 @@
           "bold": true
         },
         {
-          "text": "— and engage in dialogue with a theoretical framework that integrates the concepts of living archive and repertoire (Diana Taylor), pedagogy of conscientization (Paulo Freire), decolonial pedagogies and re-existence (Catherine Walsh), articulation (Donna Haraway), pedagogies of cruelty (Rita Segato), and material imagination (Andrea Soto Calderón). Each segment combines transcription and critical analysis to make visible some of the ways in which community radio operates as a space of resistance, memory, and feminist agency in the face of colonial, patriarchal, and neoliberal matrices of power."
+          "text": "— and engage in dialogue with a theoretical framework that integrates the concepts of living archive and repertoire \n(Taylor, 2015; Voegelin y Barney, 2018), decolonial pedagogies and re-existences (Freire, 1992; hooks, 2000; Walsh, 2013), articulation (Haraway, 2022; Stangers, 2010), pedagogies of cruelty (Rita Segato), material imagination (Andrea Soto Calderón) and tecnoceno (Costa, 2021). Each segment combines transcription and critical analysis to make visible some of the ways in which community radio operates as a space of resistance, memory, and feminist agency in the face of colonial, patriarchal, and neoliberal matrices of power."
         }
       ],
       "align": "justify"
@@ -374,7 +373,7 @@
   "created_at": "2026-04-23T14:16:34.169Z",
   "created_by": "celeste-camacho",
   "title": "Colección Voces de Mujeres  ",
-  "updated_at": "2026-07-24T16:37:08.713Z",
+  "updated_at": "2026-07-24T19:19:58.785Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
