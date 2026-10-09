@@ -9,12 +9,32 @@
         {
           "text": "Escuchar eI archivo ",
           "textSize": "heading-one"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "Guía pedagógica para la escucha situada de archivos sonoros feministas.",
+          "text": "",
           "bold": true,
           "italic": true
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "italic": true,
+          "text": "Guía pedagógica para la escucha situada de archivos sonoros feministas."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
           "text": "\n\n"
         },
@@ -26,7 +46,7 @@
           "text": "\n"
         },
         {
-          "text": "Es un recurso para docentes, estudiantes e investigadoras interesadas en archivos orales feministas, pensado\npara acompañar —no reemplazar— la escucha directa de las grabaciones.",
+          "text": "Es un recurso para docentes, estudiantes e investigadoras interesadas en archivos orales feministas, pensado para acompañar la escucha directa de las grabaciones.",
           "bold": true,
           "textSize": "small"
         }
@@ -65,6 +85,153 @@
       ]
     },
     {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "b549b88f-f07c-4871-95a3-a4c0db18afe3",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "1967934e-d2c1-4277-a564-890d6d0a07b8",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "5d9b112e-7fcd-4a33-a7db-803f3781cfeb",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "b8a148bb-3a20-4798-905f-690c786d7b96",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "uuid": "d2f9ca2b-ef13-431d-af77-a0b14c10b37f",
+      "includes": [
+        "media",
+        "annotations",
+        "label",
+        "description"
+      ],
+      "type": "event",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
       "type": "horizontal-separator",
       "children": [
         {
@@ -87,9 +254,22 @@
           "text": "¿Qué es la escucha situada?",
           "bold": true,
           "textSize": "heading-three"
-        },
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
         {
-          "text": "\nSiguiendo a Voegelin y Barney (2018), entendemos la escucha corno una forma de conocimiento y no solo Como recepción\npasiva de sonido. Escuchar de forma situada implica reconocer eI lugar desde eI cual escuchamos, las teorías que traemos\na la escucha, y eI compromiso ético de no extraer eI testimonio de su contexto de enunciación."
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Siguiendo a Voegelin y Barney (2018), entendemos la escucha corno una forma de conocimiento y no solo Como recepción\npasiva de sonido. Escuchar de forma situada implica reconocer eI lugar desde eI cual escuchamos, las teorías que traemos\na la escucha, y eI compromiso ético de no extraer eI testimonio de su contexto de enunciación."
         }
       ]
     },
@@ -145,11 +325,8 @@
           "text": "\nCada fragmento transcrito puede leerse desde capas complementarias. NO son excluyentes: un mismo segmento suele\nactivar más de una a la vez.\n"
         },
         {
-          "text": "I. Capa político-poética",
+          "text": " ",
           "bold": true
-        },
-        {
-          "text": "\nFragmentos que expresan memoria colectiva, resistencia y política."
         }
       ]
     },
@@ -157,58 +334,64 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Pregunta guía: "
-        },
-        {
-          "text": "¿Qué se está reivindicando o denunciando en este fragmento?",
-          "italic": true
-        },
-        {
-          "text": "\n"
-        },
-        {
-          "text": "2. Capa pedagógico-decolonial",
-          "bold": true
-        },
-        {
-          "text": "\nModos de transmisión de saberes situados y de aprendizaje. "
+          "bold": true,
+          "text": ""
         }
       ]
     },
     {
-      "type": "paragraph",
+      "type": "numbered-list",
       "children": [
         {
-          "text": "Pregunta guía: "
+          "type": "list-item",
+          "children": [
+            {
+              "bold": true,
+              "text": "Capa político-poética"
+            },
+            {
+              "text": "\nFragmentos que expresan memoria colectiva, resistencia y política. Pregunta guía: "
+            },
+            {
+              "text": "¿Qué se está reivindicando o denunciando en este fragmento?",
+              "italic": true
+            }
+          ]
         },
         {
-          "text": "¿Qué se enseña y cómo se transmite, y desde qué lugar de enunciación?",
-          "italic": true
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Capa pedagógico-decolonial",
+              "bold": true
+            },
+            {
+              "text": "\nModos de transmisión de saberes situados y de aprendizaje. Pregunta guía: "
+            },
+            {
+              "text": "¿Qué se enseña y cómo se transmite, y desde qué lugar de enunciación?",
+              "italic": true
+            }
+          ]
         },
         {
-          "text": "\n"
-        },
-        {
-          "text": "3. Capa estético-sonora ",
-          "bold": true
-        },
-        {
-          "text": "\nTexturas vocales, pausas, silencios, interferencias y resonancias. "
-        }
-      ]
-    },
-    {
-      "type": "paragraph",
-      "children": [
-        {
-          "text": "Pregunta guía: "
-        },
-        {
-          "text": "¿Qué hace la voz no solo qué dice en este fragmento?",
-          "italic": true
-        },
-        {
-          "text": "\n"
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Capa estético-sonora ",
+              "bold": true
+            },
+            {
+              "text": "\nTexturas vocales, pausas, silencios, interferencias y resonancias. Pregunta guía: "
+            },
+            {
+              "text": "¿Qué hace la voz no solo qué dice en este fragmento?",
+              "italic": true
+            },
+            {
+              "text": "\n"
+            }
+          ]
         }
       ]
     },
@@ -221,7 +404,15 @@
       ]
     },
     {
-      "type": "table-of-contents",
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -390,7 +581,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"Escuchar en cada forma posible a todo 10 posible, para oír sin importar qué se esté haciendo.\"\nPAULINE OLIVEROS. SONIC MEDITATIONS, 1974",
+          "text": "\"Escuchar en cada forma posible a todo lo posible, para oír sin importar qué se esté haciendo.\"\nPAULINE OLIVEROS. SONIC MEDITATIONS, 1974",
           "bold": true,
           "italic": true
         }
@@ -502,20 +693,29 @@
           "type": "list-item",
           "children": [
             {
-              "text": "Publicar en AVAnnotate",
-              "bold": true
+              "bold": true,
+              "text": "Publicar en AVAnnotate"
             },
             {
               "text": "\nImportar la planilla final CSV verificando tiempos y etiquetas antes de la importación.\n\n\n\n"
             },
             {
-              "text": "Escuchar el Archivo es un producto Scholarship Research Fellowship 2026 de LLICAS Latin American Studies Collections, University of Texas at Austin, desarrollado por Celeste Camacho a partir de las colecciones de la Human Rights Documentation Initiative (HDRI).",
-              "italic": true
+              "italic": true,
+              "text": "Escuchar el Archivo es un producto Scholarship Research Fellowship 2026 de LLICAS Latin American Studies Collections, University of Texas at Austin, desarrollado por Celeste Camacho a partir de las colecciones de la Human Rights Documentation Initiative (HDRI)."
             },
             {
               "text": "\n\n"
             }
-          ]
+          ],
+          "align": "justify"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "text": ""
         }
       ]
     },
@@ -526,96 +726,26 @@
           "bold": true,
           "text": "MARCO CONCEPTUAL ",
           "textSize": "heading-two"
+        },
+        {
+          "text": "A u t o r a s  y  a u t o r e s  e n  d i á l o g o",
+          "italic": true,
+          "textSize": "small"
+        },
+        {
+          "text": "\n\nLa anotación de ambas colecciones se construyó en diálogo constante con un conjunto de autoras y autores de la teoría\nfeminista, decolonial y de estudios sonoros. Conocerlos ayuda a leer las anotaciones con mayor profundidad.\n"
         }
       ]
     },
     {
-      "type": "bulleted-list",
+      "type": "paragraph",
       "children": [
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "A u t o r a s  y  a u t o r e s  e n  d i á l o g o",
-              "italic": true,
-              "textSize": "small"
-            },
-            {
-              "text": "\n\nLa anotación de ambas colecciones se construyó en diálogo constante con un conjunto de autoras y autores de la teoría\nfeminista, decolonial y de estudios sonoros. Conocerlos ayuda a leer las anotaciones con mayor profundidad.\n "
-            }
-          ]
+          "text": "Diana Taylor (2015); Rita Segato (2018); Paulo Freire (1992); bell hooks (2000); Catherine Walsh (2013); Andrea Soto Calderón (2022); Donna Haraway (2018); Isabelle Stengers (2011); Flavia Costa (2021); Pauline Oliveros (2005).",
+          "textSize": "heading-four"
         },
         {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Diana Taylor (2015) — EI archivo como acto performativo, no como repositorio estático. EI archivo y el repertorio. "
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Rita Segato (2018) — La politicalidad encarnada de las memorias de mujeres; la pedagogía de la crueldad."
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Paulo Freire (1992) — La pedagogía de la esperanza; el conocimiento como práctica dialógica"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "bell hooks (2000) — EI feminismo Como movimiento colectivo que abraza la totalidad de la experiencia humana"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Catherine Walsh (2013) — La pedagogía decolonial; desaprender los marcos coloniales del conocimiento"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Andrea Soto Calderón (2022) — La imaginación material; 10 sensible (voz. silencio. timbre) como productor de pensamiento"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Donna Haraway / Isabelle Stengers — La de Conocimiento como tejido entre 10 humano y I"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Flavia Costa (2021) — EI tecnoceno; la mediación técnica en la construcción de la memoria"
-            }
-          ]
-        },
-        {
-          "type": "list-item",
-          "children": [
-            {
-              "text": "Pauline Oliveros (2005) — Deep Listening; la distincion entreoir (involuntario) y escuchar (acto consciente) que estructura los ejercicios\nde la página siguiente.\n"
-            }
-          ]
+          "text": "\n\n"
         }
       ]
     },
@@ -647,11 +777,21 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "\"EI archivo no se entiende como un repositorio estático sino como un acto performativo que continúa\nproduciendo significado.\"\nDIANA TAYLOR",
+          "text": "\"EI archivo no se entiende como un repositorio estático sino como un acto performativo ",
           "italic": true
         }
       ],
       "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "align": "center",
+      "children": [
+        {
+          "italic": true,
+          "text": "que continúa produciendo significado.\"\nDIANA TAYLOR"
+        }
+      ]
     },
     {
       "type": "paragraph",
@@ -702,15 +842,15 @@
       ]
     }
   ],
-  "title": "Propuesta y guía pedagógica para escuchar el archivo ",
+  "title": "Propuesta pedagógica para escuchar el archivo ",
   "parent": "0ea50fb9-de11-4143-a389-e72fc49e7759",
   "autogenerate": {
     "enabled": false,
     "type": "custom"
   },
-  "slug": "propuesta-y-guia-pedagogica-para-escuchar-el",
+  "slug": "propuesta-pedagogica-para-escuchar-el-archivo",
   "created_at": "2026-10-09T02:00:49.238Z",
   "created_by": "celeste-camacho",
-  "updated_at": "2026-10-09T02:00:49.238Z",
+  "updated_at": "2026-10-09T14:05:10.042Z",
   "updated_by": "celeste-camacho"
 }
