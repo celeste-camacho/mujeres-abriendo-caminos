@@ -1,0 +1,716 @@
+{
+  "content": [
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Escuchar eI archivo ",
+          "textSize": "heading-one"
+        },
+        {
+          "text": "Guía pedagógica para la escucha situada de archivos sonoros feministas.",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": "\n\n"
+        },
+        {
+          "text": "¿Para que esta guía?",
+          "textSize": "heading-three"
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "Es un recurso para docentes, estudiantes e investigadoras interesadas en archivos orales feministas, pensado\npara acompañar —no reemplazar— la escucha directa de las grabaciones.",
+          "bold": true,
+          "textSize": "small"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Esta guía sistematiza la metodología de escucha situada desarrollada durante la anotación critica de dos colecciones de\ntestimonios de mujeres centroamericanas: Voces de Mujeres (Guatemala) y Tejiendo la Memoria (EI Salvador), disponibles en la\nHuman Rights Documentation Initiative (HRDI) de la Benson Latin American Collection, University of Texas at Austin."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Está pensada para tres tipos de uso: como guía de aula para docentes que quieran trabajar archivos sonoros con perspectiva\nfeminista y decolonial; como protocolo de trabajo para quienes deseen replicar o adaptar esta metodología en otros archivos; y\ncomo puerta de entrada a las colecciones anotadas en Avannotate. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "¿Qué es la escucha situada?",
+          "bold": true,
+          "textSize": "heading-three"
+        },
+        {
+          "text": "\nSiguiendo a Voegelin y Barney (2018), entendemos la escucha corno una forma de conocimiento y no solo Como recepción\npasiva de sonido. Escuchar de forma situada implica reconocer eI lugar desde eI cual escuchamos, las teorías que traemos\na la escucha, y eI compromiso ético de no extraer eI testimonio de su contexto de enunciación."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "m e t o d o l o g í a ",
+          "italic": true,
+          "textSize": "small"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "italic": true,
+          "textSize": "heading-three",
+          "text": "LAS CAPAS DE LA ESCUCHA "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nCada fragmento transcrito puede leerse desde capas complementarias. NO son excluyentes: un mismo segmento suele\nactivar más de una a la vez.\n"
+        },
+        {
+          "text": "I. Capa político-poética",
+          "bold": true
+        },
+        {
+          "text": "\nFragmentos que expresan memoria colectiva, resistencia y política."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pregunta guía: "
+        },
+        {
+          "text": "¿Qué se está reivindicando o denunciando en este fragmento?",
+          "italic": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "2. Capa pedagógico-decolonial",
+          "bold": true
+        },
+        {
+          "text": "\nModos de transmisión de saberes situados y de aprendizaje. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pregunta guía: "
+        },
+        {
+          "text": "¿Qué se enseña y cómo se transmite, y desde qué lugar de enunciación?",
+          "italic": true
+        },
+        {
+          "text": "\n"
+        },
+        {
+          "text": "3. Capa estético-sonora ",
+          "bold": true
+        },
+        {
+          "text": "\nTexturas vocales, pausas, silencios, interferencias y resonancias. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Pregunta guía: "
+        },
+        {
+          "text": "¿Qué hace la voz no solo qué dice en este fragmento?",
+          "italic": true
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "table-of-contents",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Ejercicio de aula",
+          "bold": true,
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "Invitar al grupo a que escuche un mismo fragmento tres veces, cada vez la atención en una capa distinta.\nComparar qué cambia en la interpretación según la capa activada.\n\n\n"
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "bold": true,
+          "italic": true,
+          "textSize": "heading-three"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "italic": true,
+          "text": "p r á c t i c a   c o r p o r a l   s o n o r a ",
+          "textSize": "small"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "italic": true,
+          "textSize": "heading-three",
+          "text": "EJERCICIOS DE ESCUCHA PROFUNDA "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\nEstos ejercicios adaptan la práctica de Deep Listening de la compositora Pauline Oliveros —desarrollada a partir de sus Sonic Meditations (1971) y sistematizada en Deep Listening: A Composers Sound Practice (2005)— al trabajo específico de escuchar testimonios orales de archivo. Oliveros distingue entre oír, un proceso involuntario, y escuchar, un acto consciente y entrenable.\nFueron incorporados a partir de una formación escucha profunda realizada Argentina, y aplicados de forma situada durante la anotación de ambas colecciones. "
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n"
+        },
+        {
+          "text": "I. Escucha focal / escucha global",
+          "bold": true
+        },
+        {
+          "text": "\nEscuchar eI fragmento una vez enfocando solo eI contenido verbal del testimonio (qué se dice). Escucharlo de nuevo abriendo la atención a todo el campo sonoro simultáneo: respiración, ruido ambiente, calidad de la grabación, sonidos de fondo. Anotar que aparece en la escucha global que la escucha focal había dejado afuera."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "2. EI cuerpo como resonador",
+          "bold": true
+        },
+        {
+          "text": "\nEscuchar con los ojos cerrados, notando dónde resuena la voz en el propio cuerpo (pecho, garganta, manos). Registrar la respuesta corporal antes de escribir cualquier interpretación conceptual. El cuerpo como primer instrumento de anotación."
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "3. Atención al silencio",
+          "bold": true
+        },
+        {
+          "text": "\nIdentificar las pausas y silencios del fragmento y escucharlos. Como se escucharía una frase: ¿Qué sostiene ese silencio? ¿Es duda, dolor, respiro, cálculo político? Tratar el silencio como información, no como ausencia de contenido"
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "4. Escucha reflexiva del propio oír",
+          "bold": true
+        },
+        {
+          "text": "\nDespués de anotar un fragmento, a escucharlo qué trajo la propia escucha a la interpretación: ¿Qué se esperaba oír?, ¿Qué sesgo o lugar de enunciación propio se activó? Registrar esta reflexión junto con la anotación crítica del fragmento.\n"
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"Escuchar en cada forma posible a todo 10 posible, para oír sin importar qué se esté haciendo.\"\nPAULINE OLIVEROS. SONIC MEDITATIONS, 1974",
+          "bold": true,
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "",
+          "textSize": "small",
+          "italic": true
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "textSize": "small",
+          "italic": true,
+          "text": "p r o t o c o l o   d e   t r a b a j o"
+        },
+        {
+          "text": " "
+        },
+        {
+          "text": "COMO ANOTAR UN ARCHIVO SONORO ",
+          "bold": true,
+          "italic": true
+        },
+        {
+          "text": "\n"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Seleccionar y preparar eI corpus",
+              "bold": true
+            },
+            {
+              "text": "\nElegir testimonios representativos priorizando temas compartidos entre colecciones (memoria, organización, violencia,\nesperanza). Organizar eI material en un entorno local de trabajo."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Transcribir con inteligencia híbrida",
+              "bold": true
+            },
+            {
+              "text": "\nGenerar una transcripción automática (por ejemplo con WhisperX) y luego corrigiendo y ajustando el formato de tiempo."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Escuchar y anotar primera escucha",
+              "bold": true
+            },
+            {
+              "text": "\nRegistrar notas de escucha: silencios, entonaciones, ruidos o interferencias significativas, antes de anotar teóricamente."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Anotar críticamente cada fragmento",
+              "bold": true
+            },
+            {
+              "text": "\nPoner el fragmento en diálogo con el marco teórico, preguntarse desde qué capa (Política, estética) resuena con más fuerza. sin descartar que active varias."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Etiquetar con vocabulario común",
+              "bold": true
+            },
+            {
+              "text": "\nUsar un set de etiquetas compartido entre para habilitar comparación (por ej. Resistencia, Cuerpo, Territorio, Memoria colectiva)."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Publicar en AVAnnotate",
+              "bold": true
+            },
+            {
+              "text": "\nImportar la planilla final CSV verificando tiempos y etiquetas antes de la importación.\n\n\n\n"
+            },
+            {
+              "text": "Escuchar el Archivo es un producto Scholarship Research Fellowship 2026 de LLICAS Latin American Studies Collections, University of Texas at Austin, desarrollado por Celeste Camacho a partir de las colecciones de la Human Rights Documentation Initiative (HDRI).",
+              "italic": true
+            },
+            {
+              "text": "\n\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "bold": true,
+          "text": "MARCO CONCEPTUAL ",
+          "textSize": "heading-two"
+        }
+      ]
+    },
+    {
+      "type": "bulleted-list",
+      "children": [
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "A u t o r a s  y  a u t o r e s  e n  d i á l o g o",
+              "italic": true,
+              "textSize": "small"
+            },
+            {
+              "text": "\n\nLa anotación de ambas colecciones se construyó en diálogo constante con un conjunto de autoras y autores de la teoría\nfeminista, decolonial y de estudios sonoros. Conocerlos ayuda a leer las anotaciones con mayor profundidad.\n "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Diana Taylor (2015) — EI archivo como acto performativo, no como repositorio estático. EI archivo y el repertorio. "
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Rita Segato (2018) — La politicalidad encarnada de las memorias de mujeres; la pedagogía de la crueldad."
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Paulo Freire (1992) — La pedagogía de la esperanza; el conocimiento como práctica dialógica"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "bell hooks (2000) — EI feminismo Como movimiento colectivo que abraza la totalidad de la experiencia humana"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Catherine Walsh (2013) — La pedagogía decolonial; desaprender los marcos coloniales del conocimiento"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Andrea Soto Calderón (2022) — La imaginación material; 10 sensible (voz. silencio. timbre) como productor de pensamiento"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Donna Haraway / Isabelle Stengers — La de Conocimiento como tejido entre 10 humano y I"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Flavia Costa (2021) — EI tecnoceno; la mediación técnica en la construcción de la memoria"
+            }
+          ]
+        },
+        {
+          "type": "list-item",
+          "children": [
+            {
+              "text": "Pauline Oliveros (2005) — Deep Listening; la distincion entreoir (involuntario) y escuchar (acto consciente) que estructura los ejercicios\nde la página siguiente.\n"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\"EI archivo no se entiende como un repositorio estático sino como un acto performativo que continúa\nproduciendo significado.\"\nDIANA TAYLOR",
+          "italic": true
+        }
+      ],
+      "align": "center"
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n"
+        }
+      ]
+    },
+    {
+      "type": "numbered-list",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "children": [
+        {
+          "text": "\n\n\n\n\n\n"
+        }
+      ]
+    }
+  ],
+  "title": "Propuesta y guía pedagógica para escuchar el archivo ",
+  "parent": "0ea50fb9-de11-4143-a389-e72fc49e7759",
+  "autogenerate": {
+    "enabled": false,
+    "type": "custom"
+  },
+  "slug": "propuesta-y-guia-pedagogica-para-escuchar-el",
+  "created_at": "2026-10-09T02:00:49.238Z",
+  "created_by": "celeste-camacho",
+  "updated_at": "2026-10-09T02:00:49.238Z",
+  "updated_by": "celeste-camacho"
+}
