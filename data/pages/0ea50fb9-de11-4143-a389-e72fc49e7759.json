@@ -36,8 +36,7 @@
     },
     {
       "type": "image",
-      "url": "https://github.com/celeste-camacho/voces-isabel/blob/main/assets/guarda_voces_de_mujeres.jpg?raw=true",
-      "caption": "",
+      "url": "https://github.com/celeste-camacho/voces-isabel/blob/main/guarda_voces_de_mujeres_v5.jpg?raw=true",
       "children": [
         {
           "text": ""
@@ -48,7 +47,7 @@
       "type": "paragraph",
       "children": [
         {
-          "text": "Digital collage by @celecamacha___",
+          "text": "Digital collage by @celecamacha___ | Mujer en la foto: Isabel Garma ",
           "textSize": "small"
         }
       ],
@@ -373,7 +372,7 @@
   "created_at": "2026-04-23T14:16:34.169Z",
   "created_by": "celeste-camacho",
   "title": "Colección Voces de Mujeres  ",
-  "updated_at": "2026-07-24T19:19:58.785Z",
+  "updated_at": "2026-10-09T14:22:21.210Z",
   "updated_by": "celeste-camacho",
   "autogenerate": {
     "enabled": false,
