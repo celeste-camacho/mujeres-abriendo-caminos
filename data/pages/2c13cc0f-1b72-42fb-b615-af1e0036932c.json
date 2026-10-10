@@ -697,22 +697,63 @@
               "text": "Publicar en AVAnnotate"
             },
             {
-              "text": "\nImportar la planilla final CSV verificando tiempos y etiquetas antes de la importación.\n\n\n\n"
-            },
-            {
-              "italic": true,
-              "text": "Escuchar el Archivo es un producto Scholarship Research Fellowship 2026 de LLICAS Latin American Studies Collections, University of Texas at Austin, desarrollado por Celeste Camacho a partir de las colecciones de la Human Rights Documentation Initiative (HDRI)."
-            },
-            {
-              "text": "\n\n"
+              "text": "\nImportar la planilla final CSV verificando tiempos y etiquetas antes de la importación.\n\n"
             }
           ],
           "align": "justify"
+        },
+        {
+          "type": "horizontal-separator",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        },
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
+      "align": "justify",
+      "children": [
+        {
+          "text": "\n\n"
+        },
+        {
+          "italic": true,
+          "text": "Escuchar el Archivo es un producto Scholarship Research Fellowship 2026 de LLICAS Latin American Studies Collections, University of Texas at Austin, desarrollado por Celeste Camacho a partir de las colecciones de la Human Rights Documentation Initiative (HDRI)."
+        },
+        {
+          "text": "\n\n"
         }
       ]
     },
     {
       "type": "numbered-list",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "horizontal-separator",
+      "children": [
+        {
+          "text": ""
+        }
+      ]
+    },
+    {
+      "type": "paragraph",
       "children": [
         {
           "text": ""
@@ -851,6 +892,6 @@
   "slug": "propuesta-pedagogica-para-escuchar-el-archivo",
   "created_at": "2026-10-09T02:00:49.238Z",
   "created_by": "celeste-camacho",
-  "updated_at": "2026-10-09T14:05:10.042Z",
+  "updated_at": "2026-10-10T00:55:41.049Z",
   "updated_by": "celeste-camacho"
 }
